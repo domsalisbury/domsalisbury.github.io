@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Dom Salisbury"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/DSalisbury.jpg"
   bio              : "Supine Topologies"
   location         : "Lancashire, UK"
   email            :
