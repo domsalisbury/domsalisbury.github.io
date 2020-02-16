@@ -2,8 +2,12 @@
 main:
 #  - title: "Posts by tag"
 #    url: /tags/
-  - title: "Posts by category"
-    url: /categories
+#  - title: "Posts by category"
+#    url: /categories
+  - title: "Health"
+    url: /categories/health
+  - title: "Politics"
+    url: /categories/politics
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
