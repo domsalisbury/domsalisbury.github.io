@@ -1,5 +1,7 @@
 # main links
 main:
+
+# We don't need separate posts by category or posts by tag pages
 #  - title: "Posts by tag"
 #    url: /tags/
 #  - title: "Posts by category"
