@@ -4,4 +4,5 @@ permalink: /about/
 classes: wide
 ---
 
-# Text here
+<!--This is a comment-->
+Text here
