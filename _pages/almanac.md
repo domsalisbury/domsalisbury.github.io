@@ -1,5 +1,5 @@
 ---
-title: Almanac
+title: almanac
 layout: category
 permalink: /categories/almanac/
 taxonomy: almanac
