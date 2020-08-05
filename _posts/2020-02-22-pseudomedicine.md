@@ -1,6 +1,5 @@
 ---
 title: "The ME/CFS community should resist the lure of pseudo-medicine"
-category: health
 categories:
   - health
   - me/cfs
@@ -10,4 +9,4 @@ tags:
 classes: wide
 ---
 
-Text here.
+Text here here
