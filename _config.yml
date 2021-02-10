@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Dom Salisbury"
-  avatar           : # "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Bio text here...."
   location         : "North West, UK"
   email            :
