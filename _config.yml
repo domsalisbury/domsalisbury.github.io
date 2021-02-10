@@ -97,7 +97,7 @@ author:
   name             : "Dom Salisbury"
   avatar           : # "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Bio text here bio text here"
-  location         : "UK"
+  location         : "North West, UK"
   email            :
   links:
     - label: "Email"
@@ -105,10 +105,10 @@ author:
       # url: mailto:dom.salisbury@outlook.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://domsalisbury.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/kuriozorinj"
+      url: "https://twitter.com/kuriozorinj"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
