@@ -1,5 +1,5 @@
 ---
-title: "The ME/CFS community should resist the lure of pseudo-medicine"
+title: "Something about health and ME/CFS"
 categories:
   - health
   - me/cfs
