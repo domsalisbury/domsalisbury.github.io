@@ -12,7 +12,7 @@ For several years I was mostly mildly fatigued and had some mild muscle pain. Bu
 
 I was still in full-time work and exercising regularly until the end of 2016. My symptoms were startling to increase in severity and I knew I needed some time out. It was around this time that my symptoms became consistent with ME/CFS. I started a new position after a period of 8 months out of work, but it was too much; within months I was down to part time and really struggling. I finished the short-term contract working mostly from home and struggling to spend much time in front of a computer due to extreme fatigue, vision issues, and a feeling like my brain just wasn’t able to keep up and process information correctly.
 
-**Timeline and diagnoses**
+**Timeline and diagnoses**  
 2009/2010: Raynaud's, Irritable Bowel Syndrome (IBS), periods of heart palpitations.  
 April/May 2012: Fatigue, general pain, tinnitus (left ear), swollen cervical lymph node, dry eyes, infrequent and intermittent numbness in fingers on waking from sleep.     
 Spring 2015: Appendectomy for granulomatous appendicitis.   
