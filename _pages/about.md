@@ -13,4 +13,4 @@ Prior to becoming to ill to maintain a job, I worked in scientific research in t
 
 I took a one-year position at [ECMWF](https://www.ecmwf.int/) in September 2017, but by this stage my health was declining. I managed to stay in the role with a lot of support and by moving first to part-time hours and then to remote working.
 
-I worked as a freelance copy-editor during 2019 and early 2020, editing manuscripts for publication in top-ranked atmospheric science, ocean science, climate and meteorology journals.
+I worked as a freelance copy-editor during 2019 and early 2020, editing manuscripts for publication in leading atmospheric science, ocean science, climate, and meteorology journals.
