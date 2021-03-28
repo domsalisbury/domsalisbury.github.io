@@ -10,6 +10,7 @@ classes: wide
 ---
 The [British Association for CFS/ME (BACME)](https://www.bacme.info/) describes itself as "a multidisciplinary organisation for UK professionals who are involved in the delivery of clinically effective services for patients with ME/CFS." Membership is open to clinicians and researchers, including psychologists, medical doctors, managers, students, and physiotherapists. BACME provides resources, education, and professional development to its members.
 
+
 BACME has always been supportive of the 2007 guideline. Indeed, BACME members have been well represented on the NICE ME/CFS Guideline Committee
 
 were on the guideline expert panel and/or were key figures in key research studies and clinical trials that formed part of the guideline evidence base.

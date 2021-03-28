@@ -6,7 +6,7 @@ tags:
   - health
 classes: wide
 ---
-I became ill in spring 2012 with a nondescript viral illness. This occurred at a time of heightened stress and I believe the combination triggered the illness(es) I am living with today. I was erroneously prescribed an antibiotic — most likely penicillin or amoxicillin — for what was probably a viral illness, and I feel this may have played a role in me developing a long-term illness.
+I became ill in spring 2012 with a nondescript viral illness. This occurred at a time of heightened stress and I believe the combination triggered ME/CFS. I was erroneously prescribed an antibiotic — most likely penicillin or amoxicillin — for what was probably a viral illness, and I feel this may have played a role in me developing a long-term illness.
 
 For several years I was mostly mildly fatigued and had some mild muscle pain. But I knew something more sinister had occurred as I had onset of tinnitus in my left ear just a couple of weeks after first starting to feel ill, along with several other minor but unexplained symptoms.
 
@@ -16,5 +16,5 @@ I was still in full-time work and exercising regularly until the end of 2016. My
 2009/2010: Raynaud's, Irritable Bowel Syndrome (IBS), periods of heart palpitations.  
 April/May 2012: Fatigue, general pain, tinnitus (left ear), swollen cervical lymph node, dry eyes, infrequent and intermittent numbness in fingers on waking from sleep.     
 Spring 2015: Appendectomy for granulomatous appendicitis.   
-From autumn 2016: Post-exertional malaise (PEM), muscle tenderness, sore throat (especially on waking), tender lymph nodes, worsening fatigue, light swelling and darkening around eyes, infrequent and intermittent localized numbness on surface of left leg on waking, muscle spasms/twitching, stiffness (particularly thoracic spine, left side of neck and upper chest), sensation of internal vibration/tremor, 'tired but wired'.  
-2018: Onset of vision / visual processing issues (palinopsia, blur, visual strain, light sensitivity, floaters), stiffness in right thumb joint, onset of tinnitus in right ear, nocturnal bruxism and associated jaw issues.  
+From autumn 2016: Post-exertional malaise (PEM), muscle tenderness, sore throat (especially on waking), tender lymph nodes, worsening fatigue, light swelling and darkening around eyes, infrequent and intermittent localized numbness on surface of left leg on waking, muscle spasms/twitching, stiffness (particularly in the thoracic spine, left side of neck and upper chest), sensation of internal vibration/tremor, 'tired but wired'.  
+2018: Onset of vision / visual processing issues (illusory palinopsia (afterimages), blur, visual strain, photophobia(light sensitivity), floaters), stiffness in right thumb joint, onset of tinnitus in right ear, nocturnal bruxism and associated jaw issues.  
