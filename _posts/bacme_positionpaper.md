@@ -1,5 +1,5 @@
 ---
-title: "BACME, NHS ME/CFS clincs push dysregulation 'model' of ME/CFS"
+title: "BACME, NHS ME/CFS clinics roll out dysregulation 'model' of ME/CFS"
 categories:
   - health
   - me/cfs
@@ -20,7 +20,7 @@ https://www.bacme.info/sites/bacme.info/files/BACME%20Position%20Paper%20on%20th
 https://meassociation.org.uk/2020/10/me-association-response-to-bacme-position-statement-on-the-management-of-me-cfs/
 
 ## 'Not deconditioning, but dysregulation'
-The BACME Position Paper—along with the content of the two presentations—points to a new illness model and therapy approach, which could be described as ‘Dysregulation not deconditioning’. I suspect the majority of patients would agree that there does seem to be dysregulation of many bodily systems in ME/CFS. However, BACME seem to be extrapolating from this clinical evidence of dysregulation to making it the basis of a new illness model of ME/CFS. This is despite the recent history of the deconditioning model falling to pieces when subject to any real scrutiny (see the recent NICE draft guideline for ME/CFS).
+The BACME Position Paper points to a new illness model and therapy approach, which could be described as ‘Dysregulation not deconditioning’. I suspect the majority of patients would agree that there does seem to be dysregulation of many bodily systems in ME/CFS. However, BACME seem to be extrapolating from this clinical evidence of dysregulation to making it the basis of a new illness model of ME/CFS. This is despite the recent history of the deconditioning model falling to pieces when subject to any real scrutiny (see the recent NICE draft guideline for ME/CFS).
 
 Why is there a need to treat ME/CFS so differently from comparable illnesses? The narrative in the new model is that with self-management and certain interventions patients can re-regulate their bodies on a path to rehabilitation (if not full recovery).
 
@@ -35,4 +35,4 @@ It would seem that the evidence underpinning a re-regulation model of rehabilita
 4. Above all, do we even need a model for illness and rehabilitation at this time, given we know so little about the etiology of ME/CFS, and given the heterogeneity in patients’ symptoms and illness course? What would happen if the clinics didn't adopt a theoretical model and just focused on symptom management and support (where needed)? 
 In summary, I feel this is a deeply-flawed and brazen move by BACME that will not pay dividends in the long run. The webinar was called ‘Understanding Dysregulation in ME/CFS’. We don’t understand it! At all! It is great that BACME are acknowledging it. Clinicians having a good grasp of dysregulation in ME/CFS is a step forward; it could help explain certain symptoms to patients and even signpost them to other related diagnoses and their treatments (e.g, dysautonomia and PoTs). However, concocting a new illness model and therapy approach without clinical evidence—and without any understanding of what’s causing this dysregulation—is not the way forward. This is all set up to be the Deconditioning Model Part 2.
 
-narrative of expected recovery/rehabilitation. Not clear if this is ignorance or strategy.
+A key point to the model is that the dysregulation is seen as reversible. This allows the narrative of expected recovery/rehabilitation.

@@ -15,4 +15,4 @@ I took a one-year position at [ECMWF](https://www.ecmwf.int/) in September 2017,
 
 I worked as a freelance copy-editor during 2019 and early 2020, editing manuscripts for publication in leading atmospheric science, ocean science, climate, and meteorology journals.
 
-I hope to use this site to keep a regular but infrequent journal 'Almanac', and post about ME/CFS, illness, healthcare, and related issues.
+I hope to use this site to keep a [regular but infrequent journal](https://domsalisbury.github.io/categories/almanac/), and post about ME/CFS, illness, healthcare, and related issues.
