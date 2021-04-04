@@ -1,5 +1,5 @@
 ---
-title: "Digesting the BACME Position Paper of October 2020"
+title: "BACME, NHS ME/CFS clincs push dysregulation 'model' of ME/CFS"
 categories:
   - health
   - me/cfs
@@ -9,7 +9,6 @@ tags:
 classes: wide
 ---
 The [British Association for CFS/ME (BACME)](https://www.bacme.info/) describes itself as "a multidisciplinary organisation for UK professionals who are involved in the delivery of clinically effective services for patients with ME/CFS." Membership is open to clinicians and researchers, including psychologists, medical doctors, managers, students, and physiotherapists. BACME provides resources, education, and professional development to its members.
-
 
 BACME has always been supportive of the 2007 guideline. Indeed, BACME members have been well represented on the NICE ME/CFS Guideline Committee
 
