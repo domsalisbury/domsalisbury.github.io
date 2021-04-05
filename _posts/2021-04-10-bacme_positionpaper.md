@@ -8,14 +8,17 @@ tags:
   - me/cfs
 classes: wide
 ---
+
 The [British Association for CFS/ME (BACME)](https://www.bacme.info/) describes itself as "a multidisciplinary organisation for UK professionals who are involved in the delivery of clinically effective services for patients with ME/CFS." Membership is open to clinicians and researchers, including psychologists, medical doctors, managers, students, and physiotherapists. BACME provides resources, education, and professional development to its members.
+
+BACME is the main vehicle of organisation within the NHS ME/CFS Specialist Services (generally known as 'clinics').
 
 BACME has always been supportive of the 2007 guideline. Indeed, BACME members have been well represented on the NICE ME/CFS Guideline Committee
 
 were on the guideline expert panel and/or were key figures in key research studies and clinical trials that formed part of the guideline evidence base.
 
-https://www.bacme.info/sites/bacme.info/files/BACME%20Position%20Paper%20on%20the%20Management%20of%20ME-CFS%20October%202020.pdf
-"There is evolving evidence to indicate a dysregulation of multiple dynamic physiological systems in explaining the symptom picture seen in ME/CFS. Research has demonstrated changes in Immune System responses, Autonomic Nervous System function, Neuroendocrine pathways including the Hypothalamus-Pituitary-Adrenal axis along with cellular metabolic changes."
+In anticipation of the release of the updated NICE Guideline for ME/CFS in April 2021 - now delayed until August 2021 - BACME released a [Position Paper](https://www.bacme.info/sites/bacme.info/files/BACME%20Position%20Paper%20on%20the%20Management%20of%20ME-CFS%20October%202020.pdf) in October 2020.
+>"There is evolving evidence to indicate a dysregulation of multiple dynamic physiological systems in explaining the symptom picture seen in ME/CFS. Research has demonstrated changes in Immune System responses, Autonomic Nervous System function, Neuroendocrine pathways including the Hypothalamus-Pituitary-Adrenal axis along with cellular metabolic changes."
 
 https://meassociation.org.uk/2020/10/me-association-response-to-bacme-position-statement-on-the-management-of-me-cfs/
 
