@@ -16,17 +16,18 @@ In October 2020, and in anticipation of the release of the updated NICE Guidelin
 ## Deconditioning out, dysregulation in
 The BACME statement was timed to coincide and align with the release of the **draft** NICE Guideline for ME/CFS in November 2020. (The expected publication date for the final guideline was recently pushed back from 21 April 2021 to 18 August 2021.) The (draft guideline)[https://www.nice.org.uk/guidance/indevelopment/gid-ng10091/documents/] advises that patients should not be offered 'any programme based on fixed incremental physical activity or exercise, for example graded exercise therapy or structured activity or exercise programmes that are based on deconditioning as the cause of ME/CFS.' In addition, the use of CBT as a therapeutic intervention is downgraded to a supportive rather than curative role.
 
-Instead, the draft guideline recommends activity and energy management. This intervention does not assume that deconditioning is the cause of ME/CFS. The BACME paper states that:
+Instead, the draft guideline recommends activity and energy management. This intervention does not assume that deconditioning is the cause of ME/CFS. The BACME paper states:
 >'BACME does not support the deconditioning model of ME/CFS as a primary cause for the condition. It is recognised that deconditioning may be, for some, an additional complicating factor of living with any disabling chronic health condition.'
 
-The job for BACME, then, is to reinvent the wheel and save face. The BACME paper points to a new illness model and therapy approach, which centre on the idea of dysregulation:
+Of course, BACME has historically supported the deconditioning model for ME/CFS.
+Predicament for BACME, but some clinics had already dropped basic tenets of the BPS approach and moved towards interventions that have general support amongst patients, namely some form of pacing or lifestyle management. The BACME paper points to a new emphasis on 'dysregulation':
 >'There is evolving evidence to indicate a dysregulation of multiple dynamic physiological systems in explaining the symptom picture seen in ME/CFS. Research has demonstrated changes in Immune System responses, Autonomic Nervous System function, Neuroendocrine pathways including the Hypothalamus-Pituitary-Adrenal axis along with cellular metabolic changes.'
 
-In this context, dysregulation is used to refer to the myriad abnormalities and impairments that have been reported in ME/CFS patients. So far, such findings are disparate, in that together they haven't yet led to identification of a particular pathology. The statement points to BACME's recognition of these findings, which are often used as evidence for the biological cause of the illness.
+In this context, dysregulation is used to refer to the myriad abnormalities and impairments that have been reported in ME/CFS patients. So far, such findings are disparate, in that together they haven't yet led to identification of a particular pathology. The BACME statement points to their recognition of these findings, which are often used as evidence for the biological cause of the illness.
 
-## From hypothesis to the clinic: A comparison of literature from the South West London and Surrey Chronic Fatigue Service
+## Dysregulation and rehabilitation
 
-The Position Paper makes it clear that dysregulation is to form a core part of the BACME approach in managing ME/CFS, although it isn't at all clear how:
+The Position Paper makes it clear that dysregulation is to form a core part of BACME's understanding of managing ME/CFS, although it isn't at all clear how:
 >'BACME supports clinicians to underpin rehabilitative and therapeutic processes with a grounding in dysregulation principles.'
 
 BACME seems to be extrapolating from clinical evidence of dysregulation to making it the basis of a new illness model of ME/CFS.
