@@ -11,7 +11,7 @@ main:
   - title: "Health"
     url: /categories/health
   - title: "ME/CFS"
-    url: /categories/ME/CFS
+    url: /categories/mecfs
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
