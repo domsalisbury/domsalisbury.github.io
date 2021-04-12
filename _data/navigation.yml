@@ -10,8 +10,8 @@ main:
     url: /categories/almanac
   - title: "Health"
     url: /categories/health
-  - title: "Politics"
-    url: /categories/politics
+  - title: "ME/CFS"
+    url: /categories/mecfs
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
