@@ -1,5 +1,5 @@
 ---
-title: "BACME, NHS ME/CFS clinics pivot from deconditioning to dysregulation in anticipation of updated NICE Guideline"
+title: "BACME, NHS ME/CFS clinics pivot from deconditioning to dysregulation model of ME/CFS in anticipation of updated NICE Guideline"
 categories:
   - health
   - me/cfs
@@ -23,14 +23,19 @@ Of course, BACME has historically supported the deconditioning model for ME/CFS.
 Predicament for BACME, but some clinics had already dropped basic tenets of the BPS approach and moved towards interventions that have general support amongst patients, namely some form of pacing or lifestyle management. The BACME paper points to a new emphasis on 'dysregulation':
 >'There is evolving evidence to indicate a dysregulation of multiple dynamic physiological systems in explaining the symptom picture seen in ME/CFS. Research has demonstrated changes in Immune System responses, Autonomic Nervous System function, Neuroendocrine pathways including the Hypothalamus-Pituitary-Adrenal axis along with cellular metabolic changes.'
 
-In this context, dysregulation is used to refer to the myriad abnormalities and impairments that have been reported in ME/CFS patients. So far, such findings are disparate, in that together they haven't yet led to identification of a particular pathology. The BACME statement points to their recognition of these findings, which are often used as evidence for the biological cause of the illness.
+In this context, dysregulation is used to refer to the myriad abnormalities and impairments that have been reported in ME/CFS patients. So far, such findings are disparate, in that together they haven't yet led to identification of a particular pathology. The BACME statement points to their recognition of these findings, which are often seen by patients and biomedical researchers as evidence for the biological/organic nature of the illness.
 
-## Dysregulation and rehabilitation
+Clinician training...positive step.
 
+## A dysregulation 'model' of ME/CFS
 The Position Paper makes it clear that dysregulation is to form a core part of BACME's understanding of managing ME/CFS, although it isn't at all clear how:
 >'BACME supports clinicians to underpin rehabilitative and therapeutic processes with a grounding in dysregulation principles.'
 
 BACME seems to be extrapolating from clinical evidence of dysregulation to making it the basis of a new illness model of ME/CFS.
+
+BACME Programme
+
+South London material
 
 >'The increased fatigue that people with CFS experience usually leads them to take prolonged rest. This prolonged rest has physical consequences. Medical investigations show that there is no disease cause for these physical symptoms, they occur as a direct result of inactivity and prolonged rest.'
 
