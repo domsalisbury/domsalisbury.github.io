@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Dom Salisbury"
   avatar           : # "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "'Who know's where the time goes?'"
+  bio              : 
   location         : "Lancashire, UK"
   email            :
   links:
