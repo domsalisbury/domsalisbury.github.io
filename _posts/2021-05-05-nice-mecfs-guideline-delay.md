@@ -9,7 +9,7 @@ classes: wide
 
 On March 29, the [National Institute for Health and Care Excellence (NICE)](https://www.nice.org.uk/) announced that the expected publication date for the revised guideline for ME/CFS had been pushed back from 21 April 2021 to 18 August 2021 "because of the large number of comments received during consultation on the ME/CFS guideline, and the additional work needed to respond to them fully."
 
-Patients and stakeholders were left wondering why this long delay was announced just three weeks before the original publication date, and one week before an embargoed copy of the final guideline was due to be distrbuted to stakeholders.
+Patients and stakeholders were left wondering why this long delay was announced just three weeks before the original publication date, and one week before an embargoed copy of the final guideline was due to be distributed to stakeholders.
 
 More importantly, the lengthy delay prompted discussions and unease among the patient community regarding the justification given. Wouldn't the large number of comments have been obvious soon after the consultation period on the draft guideline ended in late December 2020? Were there dark forces at play behind the scenes? Had Michael Sharpe handcuffed himself to the front entrance of the NICE offices in protest at the draft recommendations?
 
