@@ -2,8 +2,6 @@
 title:  "About"
 permalink: /about/
 classes: wide
-header:
-  image: /assets/images/header.jpg
 ---
 
 <!--This is a comment-->
