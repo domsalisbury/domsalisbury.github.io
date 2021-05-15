@@ -7,7 +7,7 @@ classes: wide
 <!--This is a comment-->
 I created this site to record some thoughts, to encourage me to write more, and to share whatever ended up here. It's also a way for me to mess about with Git, Github Pages, and Markdown.
 
-I've now been ill with symptoms consistent with ME/CFS since late 2016, though I wasn't fully well for several years before that. My diagnosis of ME/CFS seems to fit my symptoms and illness trajectory better than any other possible diagnosis.
+I've now been ill with symptoms consistent with [myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)](https://www.cdc.gov/me-cfs/about/index.html) since late 2016, though I wasn't fully well for several years before that. My diagnosis of ME/CFS seems to fit my symptoms and illness trajectory better than any other possible diagnosis.
 
 Prior to becoming too ill to maintain a job, I worked in scientific research in the fields of atmospheric and ocean physics. I obtained my PhD from the [University of Leeds](https://environment.leeds.ac.uk/institute-climate-atmospheric-science) in 2014, with a thesis investigating the role of ocean wave-breaking and whitecaps on air-sea exchange. I stayed in the same research group until the end of 2016, during which time my focus was investigation of air-sea exchange over Arctic sea ice. I was lucky enough to spend six weeks onboard the Swedish icebreaker _Oden_ in summer 2014 as part of the [SWERUS-C3](http://www.swerus-c3.geo.su.se/) expedition.
 
