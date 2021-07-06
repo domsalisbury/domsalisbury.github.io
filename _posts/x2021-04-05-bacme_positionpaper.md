@@ -9,31 +9,29 @@ tags:
 classes: wide
 ---
 
-The [British Association for CFS/ME (BACME)](https://www.bacme.info/) describes itself as "a multidisciplinary organisation for UK professionals who are involved in the delivery of clinically effective services for patients with ME/CFS." Membership is open to clinicians and researchers, including psychologists, medical doctors, managers, students, and physiotherapists. BACME provides resources, education, and professional development to its members, who primarily work within the network of locally-commissioned specialist ME/CFS clinics scattered around the country. As such, BACME has influence over how these clinics are run. BACME also has influence on the NICE Guideline, with members on the Guideline Committee, and BACME members have been part of key research studies and clinical trials that form(ed) part of the guideline evidence base.
+The [British Association for CFS/ME (BACME)](https://www.bacme.info/) describes itself as "a multidisciplinary organisation for UK professionals who are involved in the delivery of clinically effective services for patients with ME/CFS." Membership is open to clinicians and researchers, including psychologists, medical doctors, managers, students, and physiotherapists. BACME provides resources, education, and professional development to its members, who primarily work within the network of locally-commissioned specialist ME/CFS clinics scattered around the country. As such, BACME has influence over how these clinics are run. BACME also has influence on the NICE guideline for ME/CFS, with members on the guideline Committee. In addition, BACME members have been part of key research studies and clinical trials that form part of the guideline evidence base.
 
-In October 2020, and in anticipation of the release of the updated NICE Guideline for ME/CFS in 2021, BACME released a [Position Paper](https://www.bacme.info/sites/bacme.info/files/BACME%20Position%20Paper%20on%20the%20Management%20of%20ME-CFS%20October%202020.pdf) on the management of ME/CFS. The statement includes a refutation of the [deconditioning model of ME/CFS](https://me-pedia.org/wiki/Deconditioning), one of the founding pillars of the biopsychosocial (BPS) approach to understanding the illness, and the primary justification for interventions such as graded exercise therapy (GET) and cogntive behavioural therapy (CBT). Despite this, BACME reaffirmed their commitment to CBT and a slightly less bombastic form of GET which they call 'graded activity strategies'. The ME Association published a succinct and measured [repsonse](https://meassociation.org.uk/2020/10/me-association-response-to-bacme-position-statement-on-the-management-of-me-cfs/) to the paper, setting out their concerns.
+In October 2020, and in anticipation of the release of the updated NICE Guideline for ME/CFS in 2021, BACME released a [Position Paper](https://www.bacme.info/sites/bacme.info/files/BACME%20Position%20Paper%20on%20the%20Management%20of%20ME-CFS%20October%202020.pdf) on the management of ME/CFS. The statement includes a refutation of the [deconditioning model of ME/CFS](https://me-pedia.org/wiki/Deconditioning), one of the founding pillars of the biopsychosocial (BPS) approach to understanding the illness, and the primary justification for interventions such as graded exercise therapy (GET) and cognitive behavioural therapy (CBT). Despite this, BACME reaffirmed their commitment to CBT and a slightly less bombastic form of GET which they call 'graded activity strategies'. The ME Association published a succinct and measured [repsonse](https://meassociation.org.uk/2020/10/me-association-response-to-bacme-position-statement-on-the-management-of-me-cfs/) to the Position Paper, setting out their concerns.
 
-## Deconditioning out, dysregulation in
-The BACME statement was timed to coincide and align with the release of the **draft** NICE Guideline for ME/CFS in November 2020. However, the expected publication date for the final guideline was recently pushed back from 21 April 2021 to 18 August 2021. The (draft guideline)[https://www.nice.org.uk/guidance/indevelopment/gid-ng10091/documents/] advises that patients should not be offered 'any programme based on fixed incremental physical activity or exercise, for example graded exercise therapy or structured activity or exercise programmes that are based on deconditioning as the cause of ME/CFS.' In addition, the use of CBT as a therapeutic intervention is downgraded to a supportive rather than curative role. Instead, the draft guideline recommends activity and energy management. This intervention does not assume that deconditioning is the cause of ME/CFS.
+## Deconditioning out...
+The BACME statement was timed to coincide and align with the release of the **draft** NICE Guideline for ME/CFS, published in November 2020. However, the expected publication date for the final guideline was recently pushed back from 21 April 2021 to 18 August 2021. The (draft guideline)[https://www.nice.org.uk/guidance/indevelopment/gid-ng10091/documents/] advises that patients should not be offered 'any programme based on fixed incremental physical activity or exercise, for example graded exercise therapy or structured activity or exercise programmes that are based on deconditioning as the cause of ME/CFS.' In addition, the use of CBT as a therapeutic intervention is downgraded to a supportive rather than curative role. The draft guideline instead recommends activity and energy management. This intervention does not assume that deconditioning is the cause of ME/CFS.
 
 The BACME paper states:
 >'BACME does not support the deconditioning model of ME/CFS as a primary cause for the condition. It is recognised that deconditioning may be, for some, an additional complicating factor of living with any disabling chronic health condition.'
 
-Of course, BACME has historically supported the deconditioning model for ME/CFS.
-Predicament for BACME, but some clinics had already dropped basic tenets of the BPS approach and moved towards interventions that have general support amongst patients, namely some form of pacing or lifestyle management. The BACME paper points to a new emphasis on 'dysregulation':
+Of course, BACME has historically supported the deconditioning model for ME/CFS. Their philosophy has always been aligned with the biopsychosocial approach. Having said that, some of the NHS clinics have over recent years dropped the basic tenets of the BPS approach and gradually moved away from strict GET and CBT programmes and have implemented their own 'treatment' protocols, some of which focus on pacing and activity/energy/lifestyle management,
+
+##...Dysregulation in
+The BACME paper points to a new emphasis on 'dysregulation':
 >'There is evolving evidence to indicate a dysregulation of multiple dynamic physiological systems in explaining the symptom picture seen in ME/CFS. Research has demonstrated changes in Immune System responses, Autonomic Nervous System function, Neuroendocrine pathways including the Hypothalamus-Pituitary-Adrenal axis along with cellular metabolic changes.'
 
-In this context, dysregulation is used to refer to the myriad abnormalities and impairments that have been reported in ME/CFS patients. So far, such findings are disparate, in that together they haven't yet led to identification of a particular pathology. The BACME statement points to their recognition of these findings, which are often seen by patients and biomedical researchers as evidence for the biological/organic nature of the illness.
+In this context, dysregulation is used to refer to the myriad abnormalities and impairments that have been reported in ME/CFS. So far, such findings are disparate, in that together they haven't yet led to identification of a particular pathology. The BACME statement points to their recognition of these findings, which are often seen by patients and biomedical researchers as evidence for the biological/organic nature of the illness. This, in itself, is a positive step, and could potentially benefit patients within the clinic, for example via better symptom management.
 
-Clinician training...positive step.
-
-## A dysregulation 'model' of ME/CFS
-The Position Paper makes it clear that dysregulation is to form a core part of BACME's understanding of managing ME/CFS, although it isn't at all clear how:
+## A 'dysregulation model' of ME/CFS
+The Position Paper, however, is not simply an acknowledgement of the complexity of symptoms in ME/CFS. Though only one side of A4, the paper sets the tone for the coming years. There is a new emphasis on rehabilitation. Dysregulation is to form a core part of BACME's understanding of managing ME/CFS:
 >'BACME supports clinicians to underpin rehabilitative and therapeutic processes with a grounding in dysregulation principles.'
 
-BACME seems to be extrapolating from clinical evidence of dysregulation to making it the basis of a new illness model of ME/CFS.
-
-BACME Programme
+BACME seems to be extrapolating from clinical evidence of dysregulation to make it the basis of a new illness model of ME/CFS which will inform treatment. This is evidenced by the programme for the BACME's annual conference in 2021, where one of the workshops was onthe topic of the 'Dysregulation model - practical application, translating into practice, clinical approaches to rehabilitation'. (A workshop titled 'Dysregulation vs Deconditioning - clinical approaches to rehabilitation' in the draft programme for the cancelled 2020 conference.)
 
 South London material
 
@@ -45,13 +43,14 @@ Inserting an intermediate step (i.e., the 'dysregulation') between thoughts and 
 
 ## Criticisms of the new approach
 
-Why is there a need to treat ME/CFS so differently from comparable illnesses? The narrative in the new model is that with self-management and certain interventions patients can re-regulate their bodies on a path to rehabilitation (if not full recovery).
+Why is there a need to treat ME/CFS so differently from comparable illnesses? The narrative in the new model is that with self-management and certain interventions patients can re-regulate their bodies on a path to rehabilitation (if not full recovery). The dysregulation is seen as reversible. This allows the narrative (myth) of expected recovery/rehabilitation to continue.
 
 If a therapy approach is to be rolled out in clinics, it should first be evidenced. So where is the evidence that such interventions work? At this stage it is not at all clear what the interventions may be.
 
 What exactly are the ‘dysregulation principles' mentioned in the paragraph given above from the BACME Position Paper?
 
-A key point to the model is that the dysregulation is seen as reversible. This allows the narrative (myth) of expected recovery/rehabilitation to continue.
+Nothing about dysregulation in the draft NICE guideline.
+
 
 
 It would seem that the evidence underpinning a re-regulation model of rehabilitation in ME/CFS patients is extremely thin. This leads me to several questions:
