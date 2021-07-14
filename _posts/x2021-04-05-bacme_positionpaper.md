@@ -25,7 +25,7 @@ Of course, BACME has historically supported the deconditioning model for ME/CFS.
 The BACME paper points to a new emphasis on 'dysregulation':
 >'There is evolving evidence to indicate a dysregulation of multiple dynamic physiological systems in explaining the symptom picture seen in ME/CFS. Research has demonstrated changes in Immune System responses, Autonomic Nervous System function, Neuroendocrine pathways including the Hypothalamus-Pituitary-Adrenal axis along with cellular metabolic changes.'
 
-In this context, dysregulation is used to refer to the myriad abnormalities and impairments that have been reported in ME/CFS. So far, such findings are disparate, in that together they haven't yet led to identification of a particular pathology. The BACME statement points to their recognition of these findings, which are often seen by patients and biomedical researchers as evidence for the biological/organic nature of the illness. This, in itself, is a positive step, and could potentially benefit patients within the clinic, for example via better symptom management.
+In this context, dysregulation is used to refer to the myriad abnormalities and impairments that have been reported in ME/CFS. So far, such findings are disparate, in that together they haven't yet led to identification of particular pathologies. The BACME statement points to their recognition of these findings, which are often seen by patients and biomedical researchers as evidence for the biological/organic nature of the illness. This, in itself, is a positive step, and could potentially benefit patients within the clinic, for example via better symptom management.
 
 ## A 'dysregulation model' of ME/CFS
 The Position Paper, however, is not simply an acknowledgement of the complexity of symptoms in ME/CFS. Though only one side of A4, the paper sets the tone for the coming years. There is a new emphasis on rehabilitation. Dysregulation is to form a core part of BACME's understanding of managing ME/CFS:
@@ -41,6 +41,8 @@ South London material
 
 Inserting an intermediate step (i.e., the 'dysregulation') between thoughts and behaviours, and symptoms.
 
+##Long Covid and rehabilitation
+
 ## Criticisms of the new approach
 
 Why is there a need to treat ME/CFS so differently from comparable illnesses? The narrative in the new model is that with self-management and certain interventions patients can re-regulate their bodies on a path to rehabilitation (if not full recovery). The dysregulation is seen as reversible. This allows the narrative (myth) of expected recovery/rehabilitation to continue.
@@ -50,8 +52,6 @@ If a therapy approach is to be rolled out in clinics, it should first be evidenc
 What exactly are the ‘dysregulation principles' mentioned in the paragraph given above from the BACME Position Paper?
 
 Nothing about dysregulation in the draft NICE guideline.
-
-
 
 It would seem that the evidence underpinning a re-regulation model of rehabilitation in ME/CFS patients is extremely thin. This leads me to several questions:
 1. Why should it be assumed that patients have the power to re-regulate their bodily systems—systems that may have gone haywire overnight, or may have been haywire for many years? We have no idea of the primary cause(s) of this dysregulation occurs, so why should it be expected that patients can reverse it? 

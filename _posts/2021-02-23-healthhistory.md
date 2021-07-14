@@ -8,9 +8,9 @@ classes: wide
 ---
 I became ill in spring 2012 with a nondescript viral illness. This occurred at a time of heightened stress and I believe the combination triggered ME/CFS. I was erroneously prescribed an antibiotic — most likely penicillin or amoxicillin — for what was probably a viral illness, and I feel this may have played a role in me developing a long-term illness.
 
-For several years I was mostly mildly fatigued and had some mild muscle pain. But I knew something more sinister had occurred as I had onset of tinnitus in my left ear just a couple of weeks after first starting to feel ill, along with several other minor but unexplained symptoms.
+For several years I lived with three core symptoms: mild fatigue, mild muscle pain and tenderness, and unilateral tinnitus that started a couple of weeks after first starting to feel ill. Throughout this period, I was able to work full time and exercise regularly.
 
-I was still in full-time work and exercising regularly until the end of 2016. My symptoms were startling to increase in severity and I knew I needed some time out. It was around this time that my symptoms became consistent with ME/CFS. I started a new position after a period of 8 months out of work, but it was too much; within months I was down to part time and really struggling. I finished the short-term contract working mostly from home and struggling to spend much time in front of a computer due to extreme fatigue, vision issues, and a feeling like my brain just wasn’t able to keep up and process information correctly.
+My symptoms were startling to increase in severity in late 2016, and I knew I needed some time out. It was around this time that my symptoms became consistent with ME/CFS. I started a new position after a period of 8 months out of work, but it was too much; within months I was down to part time and really struggling. I finished the short-term contract working mostly from home and unable to spend much time in front of a computer due to extreme fatigue, vision issues, and a feeling like my brain just wasn’t able to keep up and process information correctly. I have been unable to work at all since 2019, and am mostly housebound.
 
 **Rough timeline of diagnoses and symptoms (non-exhaustive)**  
 2009/2010: Raynaud's, Irritable Bowel Syndrome (IBS), periods of heart palpitations.  
