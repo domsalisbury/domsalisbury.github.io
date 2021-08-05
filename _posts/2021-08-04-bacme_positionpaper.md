@@ -22,7 +22,7 @@ The BACME Position Paper states:
 
 Of course, BACME has historically supported the deconditioning model for ME/CFS. Their philosophy has always been aligned with the biopsychosocial approach. Having said that, some of the NHS clinics have over recent years dropped the basic tenets of the BPS approach and gradually moved away from strict GET and/or CBT programmes and have implemented their own 'treatment' protocols, some of which focus on pacing and activity/energy/lifestyle management. The treatment/management plans offered varies considerably among clinics.
 
-##...Dysregulation in
+## ...Dysregulation in
 The BACME paper points to a new emphasis on 'dysregulation':
 >'There is evolving evidence to indicate a dysregulation of multiple dynamic physiological systems in explaining the symptom picture seen in ME/CFS. Research has demonstrated changes in Immune System responses, Autonomic Nervous System function, Neuroendocrine pathways including the Hypothalamus-Pituitary-Adrenal axis along with cellular metabolic changes.'
 
@@ -42,7 +42,7 @@ risk factors, onset, and ongoing dysregulation.
 
 The document finishes with a rather vague discussion about what can be done about this dysregulation. They include lifestyle changes (such as re-regulating the body clock), energy management, minimising 'immune activation', and changes to diet. Such strategies will be familiar to most ME/CFS patients, and already form the basis of approaches in some of the NHS specialist clinics that have already moved away from GET and ME-CBT.
 
-##Assessment of the model
+## Assessment of the model
 In summary, a new illness model of ME/CFS is being concocted. The model attempts to bring together disparate research findings and clinical evidence of abnormalities and impairment in ME/CFS patients, while acknowledging that 'there is no clearly understood pathway regarding the disorder'. The model acknowledges the huge number of symptoms seen in ME/CFS and doesn't directly relate them to deconditioning, fear avoidance, or false illness beliefs. The model goes hand-in-hand with a therapy approach based on rehabilitation and re-regulation.
 
 Despite being a clear improvement on the deconditioning model of ME/CFS, I do have several reservations about the dysregulation approach:
