@@ -35,35 +35,36 @@ This is evidenced by the programme for the BACME's annual conference in 2021, wh
 
 The 'dysregulation model' seems to have been spearheaded by a small number of BACME members, including Dr Sue Pemberton from the Yorkshire Fatigue Clinic (YFC), and Dr Vikki McKeever, a GP with special interest in ME/CFS. At the end of 2020, the YFC added to their website a [document](/assets/YFC_dysregulation.pdf) that spells out the dysregulation model of ME/CFS and their approach to therapy.
 
-In essence, the model invokes a loss of homeostasis in ME/CFS patients, dysregulation of numerous bodily system — particularly the autonomic nervous system, the neuroendocrine system, and the immune system — and a breakdown in communications between the different systems. Individual symptoms can be attributed to dysregulation of one or more of these systems; for example, a disrupted sleep cycle can be considered a symptom of hypothalamic-pituitary-adrenal axis dysfunction, and orthostatic intolerance can be attributed to autonomic nervous system dysfunction.
+In essence, the model invokes a loss of homeostasis in ME/CFS patients, dysregulation of numerous bodily system — particularly the autonomic nervous system, the neuroendocrine system, and the immune system — and a breakdown in communications between the different systems. Individual symptoms are attributed to dysregulation of one or more of these systems; for example, a disrupted sleep cycle can be considered a symptom of hypothalamic-pituitary-adrenal axis dysfunction, and orthostatic intolerance can be attributed to autonomic nervous system dysfunction.
 
 risk factors, onset, and ongoing dysregulation.
 
-The document finishes with a rather vague discussion about what can be done about this dysregulation. They include lifestyle changes (such as re-regulating the body clock), energy management, minimising 'immune activation', and changes to diet. Such strategies will be familiar to most ME/CFS patients, and already form the basis of approaches in some of the NHS specialist clinics that have already moved away from GET and ME-CBT.
+The document ends with a rather vague discussion about what can be done about this dysregulation. The interventions include lifestyle changes (such as re-regulating the body clock), energy management, minimising 'immune activation', and changes to diet. Such strategies will be familiar to most ME/CFS patients, and already form the basis of approaches in some of the NHS specialist clinics that have already moved away from GET and ME-CBT.
 
 ## Assessment of the model
-In summary, a new illness model of ME/CFS is being concocted. The model attempts to bring together disparate research findings and clinical evidence of abnormalities and impairment in ME/CFS patients, while acknowledging that 'there is no clearly understood pathway regarding the disorder'. The model acknowledges the huge number of symptoms seen in ME/CFS and doesn't directly relate them to deconditioning, fear avoidance, or false illness beliefs. The model goes hand-in-hand with a therapy approach based on rehabilitation and re-regulation.
+In summary, the dysregulation model aims to provide a theoretical framework for therapeutic interventions that have been tried and tested but with unknown success. The model attempts to bring together disparate research findings and clinical evidence of abnormalities and impairment in ME/CFS patients, while acknowledging that 'there is no clearly understood pathway regarding the disorder'. The model acknowledges the huge number of symptoms seen in ME/CFS and claims not to directly relate them to deconditioning, fear avoidance, or false illness beliefs. The model goes hand-in-hand with a therapy approach based on rehabilitation and 're-regulation'.
 
-Despite being a clear improvement on the deconditioning model of ME/CFS, I do have several reservations about the dysregulation approach:
-1. Why is there a need to treat ME/CFS so differently to comparable illnesses? The narrative in the new model is that with self-management and certain interventions patients can re-regulate their bodies on a path to rehabilitation (if not full recovery). The dysregulation is seen as reversible. This allows the narrative (myth) of expected recovery/rehabilitation to continue.
+Acknowledgement from clinicians that they are dealing with a multisystem illness with clear clinical abnormalities should be welcomed by patients. Likewise, patients will benefit from clinicians who are better educated about the breadth and severity of symptoms in ME/CFS, as well as those of overlapping/comorbid conditions.
 
-Is this model applied to any other illnesses? Related to (2), 'dysregulation' often appears in the context of psychiatric illness and mood disorder. BACME has been clear that they are talking about dysregulation of bodily systems such as the immune system and HPA axis, but this could be a troublesome association. 
+Yet, despite casting off the most bombastic (and harmful) elements of the deconditioning model of ME/CFS, I do have several reservations about the dysregulation approach and its possible implementation in clinics.
 
-2. If a therapy approach is to be rolled out in clinics, it should first be evidenced. So where is the evidence that such interventions work? At this stage it is not at all clear what the interventions may be.
+1. Any therapeutic interventions to be rolled out in the clinic should be evidenced. Is there any evidence that re-regulation can be achieved in ME/CFS patients through interventions that are at the same time both trivial and inappropriate for many patients.
 
-1. Why should it be assumed that patients have the power to re-regulate their bodily systems — systems that may have gone haywire overnight, or may have been haywire for many years? We have no idea of the primary cause(s) of this dysregulation occurs, so why should it be expected that patients can reverse it? 
-2. Is there any evidence that re-regulation can be achieved in ME/CFS patients through such therapy? It would seem the BACME approach is to be guided self-management with behavioural changes (such as regulating sleep time and duration, for example). Interestingly, the word dysregulation does not appear in draft NICE guideline, except in a couple of evidence reviews that included one study looking at 'emotional dysregulation', which is of course different but uses the same terminology. 
-3. Above all, do we even need a model for illness and rehabilitation at this time, given we know so little about the etiology of ME/CFS, and given the heterogeneity in patients’ symptoms and illness course? What would happen if the clinics didn't adopt a theoretical model and just focused on symptom management and support (where needed)? 
+2. Is there an inherent assumption that patients can 're-regulate'? The narrative in the new model seems to be that with self-management and certain interventions patients can re-regulate their bodies on a path to rehabilitation (if not full recovery). The dysregulation is seen as reversible. This allows the narrative (myth) of expected recovery/rehabilitation to continue.
+
+3. Is there a need for yet another vague model of this illness, given we know so little about its pathophysiology, and given the heterogeneity in patients' symptoms and illness course? What would happen if the clinics didn't adopt a theoretical model and just focused on symptom management and support (where needed)? 
 
 ## Implications for specialist care of ME/CFS patients
-This change in tone can also be seen in material published by individual specialist ME/CFS clinics. South London material
+The revised NICE guideline for ME/CFS is likely to cause some disarray within the NHS specialist clinics, particularly those that have not transitioned to a more flexible and diversified approach. There have been calls for many years from patients and advocates for appropriate reforms and funding. The new guideline may provide some impetus for change, but it will be all too easy for the clinics and their staff to remain somewhat wedded to the old narratives.
+
+I recently came across inclusion of the concept of dysregulation in a recently-revised pamphlet from the South West London and Surrey Chronic Fatigue Service. A section of text in the July 2018 version of the booklet read:
 
 >'The increased fatigue that people with CFS experience usually leads them to take prolonged rest. This prolonged rest has physical consequences. Medical investigations show that there is no disease cause for these physical symptoms, they occur as a direct result of inactivity and prolonged rest.'
 
+In the latest implementation of the booklet (July 2020), this section reads:
+
 >'The increased fatigue that people with ME/CFS experience usually leads them to take prolonged rest. This prolonged rest has physical consequences. Medical investigations show that there is no disease cause for these physical symptoms. They are related to the dysregulation of several body systems in particular the autonomic nervous system, HPA axis and the immune system. Coping strategies such as prolonged rest and inactivity can inadvertently maintain the symptoms.'
 
-Inserting an intermediate step (i.e., the 'dysregulation') between thoughts and behaviours, and symptoms.
+It is simply not good enough for clinicians to pay lip service to the idea that ME/CFS is a serious multisystemic illness without moving on from their harmful narratives and thoroughly debunked therapeutic approaches.
 
-Nothing about dysregulation in the draft NICE guideline.
-
-Long Covid
+Finally, it is worth mentioning that there is no mention of dysregulation in the draft NICE guideline.
