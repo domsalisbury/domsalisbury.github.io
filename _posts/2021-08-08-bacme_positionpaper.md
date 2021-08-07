@@ -46,7 +46,7 @@ Acknowledgement from clinicians that they are dealing with a multisystem illness
 
 Yet, despite casting off the most bombastic (and harmful) elements of the deconditioning model of ME/CFS, I do have several reservations about the dysregulation approach and its possible implementation in clinics.
 
-1. Any therapeutic interventions to be rolled out in the clinic should be evidenced. Is there any evidence that re-regulation can be achieved in ME/CFS patients through interventions that are at the same time both trivial and inappropriate for many patients? Data collection within the clinics is notoriously shabby. If these strategies have helped patients, we should be able to see the evidence.
+1. Any therapeutic interventions to be rolled out in the clinic should be evidenced. Data collection within the clinics is notoriously shabby. If these strategies have helped patients, we should be able to see the evidence.
 
 2. Is there an inherent assumption that patients can 're-regulate'? The narrative in the new model seems to be that with self-management and certain interventions patients can re-regulate their bodies on a path to rehabilitation (if not full recovery). The dysregulation is seen as reversible. This allows the narrative (myth) of expected recovery/rehabilitation to continue.
 
