@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-future                   : false
+future                   : false # added August 2021 (Dom)
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
