@@ -62,6 +62,6 @@ In the latest implementation of the booklet [(July 2020)](NHS_Epsom_StHelier_CFS
 
 >'The increased fatigue that people with ME/CFS experience usually leads them to take prolonged rest. This prolonged rest has physical consequences. Medical investigations show that there is no disease cause for these physical symptoms. They are related to the dysregulation of several body systems in particular the autonomic nervous system, HPA axis and the immune system. Coping strategies such as prolonged rest and inactivity can inadvertently maintain the symptoms.'
 
-It is simply not good enough for clinicians to pay lip service to the idea that ME/CFS is a serious multisystemic illness without moving on from their harmful narratives and thoroughly debunked therapeutic approaches. Nothing less than a paradigm shift will suffice.
+It is simply not good enough for clinicians to pay lip service to the idea that ME/CFS is a serious multisystem illness without moving on from their harmful narratives and thoroughly debunked therapeutic approaches. Nothing less than a paradigm shift will suffice.
 
 Finally, it is worth mentioning that there is no mention of dysregulation in the draft NICE guideline.
