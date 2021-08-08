@@ -52,7 +52,7 @@ Yet, despite casting off the most bombastic (and harmful) elements of the decond
 3. Is there a need for yet another vague model of this illness, given we know so little about its pathophysiology, and given the heterogeneity in patients' symptoms and illness course? Is simply focusing on symptom management and support (where needed) not an option? 
 
 ## Tinkering around the edges
-The revised NICE guideline for ME/CFS is likely to cause some disarray within the NHS specialist clinics, particularly those that have not transitioned to a more flexible and diversified approach. There have been calls for many years from patients and advocates for appropriate reforms and funding. The new guideline may provide some impetus for change, but it will be all too easy for the clinics and their staff to remain somewhat wedded to the old narratives.
+The revised NICE guideline for ME/CFS is likely to cause some disarray within the NHS specialist clinics, particularly those that have not transitioned to a more flexible and diversified approach. There have been calls for many years from patients and advocates for appropriate reforms and funding. The new guideline may provide some impetus for change — as might the demand for similar services for long-Covid patients — but it will be all too easy for the clinics and their staff to remain somewhat wedded to the old narratives.
 
 I recently came across inclusion of the concept of dysregulation in a recently-revised pamphlet from the South West London and Surrey Chronic Fatigue Service. A section of text in the [July 2018](NHS_Epsom_StHelier_CFS_Booklet_2018.pdf) version of the booklet read:
 
