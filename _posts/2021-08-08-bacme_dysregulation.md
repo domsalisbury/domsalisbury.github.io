@@ -32,7 +32,7 @@ The Position Paper, however, is not simply an acknowledgement of the complexity 
 
 This is evidenced by the programme for the BACME's annual conference in 2021, where one of the workshops was titled the 'Dysregulation model - practical application, translating into practice, clinical approaches to rehabilitation'. (A workshop titled 'Dysregulation vs Deconditioning - clinical approaches to rehabilitation' appeared in the draft programme for the cancelled 2020 conference.)
 
-The 'dysregulation model' seems to have been spearheaded by a small number of BACME members, including Dr Sue Pemberton from the Yorkshire Fatigue Clinic (YFC), and Dr Vikki McKeever, a GP with special interest in ME/CFS. (Dr Pemberton happens to be reasonably well respected by patients and has many years of experience working within NHS ME/CFS clinics.) At the end of 2020, the YFC added to their website a [document](/assets/YFC_dysregulation.pdf) that summarises the dysregulation model of ME/CFS and their approach to therapy.
+The 'dysregulation model' seems to have been spearheaded by small number of BACME members — including Dr Vikki McKeever, a GP with special interest in ME/CFS — working in collaboration with Sue Pemberton of the Yorkshire Fatigue Clinic (YFC). Dr Pemberton, who is no longer a member of BACME, happens to be reasonably well respected by patients and has many years of experience working within NHS ME/CFS clinics. At the end of 2020, the YFC added to their website a [document](/assets/YFC_dysregulation.pdf) that summarises the dysregulation model of ME/CFS and their approach to therapy.
 
 In essence, the model invokes a loss of homeostasis in ME/CFS patients, dysregulation of numerous bodily system — particularly the autonomic nervous system, the neuroendocrine system, and the immune system — and a breakdown in communications between the different systems. Individual symptoms are attributed to dysregulation of one or more of these systems; for example, a disrupted sleep cycle can be considered a symptom of hypothalamic-pituitary-adrenal axis dysfunction, and orthostatic intolerance can be attributed to autonomic nervous system dysfunction.
 
@@ -65,3 +65,5 @@ In the latest implementation of the booklet [(July 2020)](NHS_Epsom_StHelier_CFS
 It is simply not good enough for clinicians to pay lip service to the idea that ME/CFS is a serious multisystem illness without moving on from their harmful narratives and thoroughly debunked therapeutic approaches. Nothing less than a paradigm shift will suffice.
 
 Finally, it is worth mentioning that there is no mention of dysregulation in the draft NICE guideline.
+
+_This blog post was edited on August 20 2021 to reflect that Dr Sue Pemberton is no longer a member of BACME._
