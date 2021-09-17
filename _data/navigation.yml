@@ -6,8 +6,8 @@ main:
 #    url: /tags/
 #  - title: "Posts by category"
 #    url: /categories
-  - title: "Almanac"
-    url: /categories/almanac
+#  - title: "Almanac"
+#    url: /categories/almanac
   - title: "Health"
     url: /categories/health
   - title: "ME/CFS"
