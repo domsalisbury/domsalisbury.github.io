@@ -15,6 +15,6 @@ I took a one-year position at [ECMWF](https://www.ecmwf.int/) in September 2017,
 
 I worked as a freelance copy-editor during 2019 and early 2020, editing manuscripts for publication in leading atmospheric science, ocean science, climate, and meteorology journals.
 
-I hope to use this site to keep a [regular but infrequent journal](https://domsalisbury.github.io/categories/almanac/), and post about ME/CFS, illness, healthcare, and related issues.
+<!--I hope to use this site to keep a [regular but infrequent journal](https://domsalisbury.github.io/categories/almanac/), and post about ME/CFS, illness, healthcare, and related issues.-->
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-2011-8490" href="https://orcid.org/0000-0002-2011-8490" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-2011-8490</a></div>
