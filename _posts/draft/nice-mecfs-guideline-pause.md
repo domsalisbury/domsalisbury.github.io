@@ -19,4 +19,4 @@ On August 18, I submitted the following FOI request to the [National Institute f
 
 There were several other FOI requests to NICE on this matter made through the WhatDoTheyKnow website; these can be found by searching the requests on [this page](https://www.whatdotheyknow.com/body/nice).
 
-I received a response to my request on September.... All the information supplied to me has been uploaded [here]().
+I received a response to my request on September.... All the information supplied to me has been uploaded [here](https://www.dropbox.com/s/bw97vbdxy0p4acf/EH-317153_October21_NICEPause.zip?dl=0).
