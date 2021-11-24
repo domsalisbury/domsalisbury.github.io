@@ -1,5 +1,5 @@
 ---
-title: "FOI request to NICE RE ME/CFS final guideline 'pause'"
+title: "Text-message lobbying of NICE CEO by RCPsych stakeholder proposing that ME/CFS guideline Evidence Review be scrapped"
 categories:
   - mecfs
 tags:
@@ -7,7 +7,7 @@ tags:
 classes: wide
 ---
 
-On August 18, I submitted the following FOI request to the [National Institute for Health and Care Excellence (NICE)](https://www.nice.org.uk/).
+A FOI request to the [National Institute for Health and Care Excellence (NICE)](https://www.nice.org.uk/) has revealed
 
 >I am asking that NICE provides any and all
 (i) internal correspondence/communication between NICE staff (including that involving the guideline committee or any individual member(s) of the committee); and
