@@ -33,7 +33,7 @@ On August 9, Paul Chrisp reached out to an individual at the Royal College of Ph
 ## "There is a way."
 Meanwhile, on August 9, the Chief Executive of NICE, Professor Gillian Leng, contacted Paul Chrisp via text (Text exchange 1) to request the two have a phone call. This seems to have been prompted by Gillian's conversation earlier that day with an individual whose name has been redacted. It seems that after the phone call between Gillian and Paul, Gillian forwarded a copied and pasted message she has received from a stakeholder. The message (split between pages 2 and 3 of Text exchange 1) is shown below. Note that this image has been created so that the message is shown as a whole, but none of the text has been changed.
 
-![image](TextExchange1_C+PMesage.jpg)
+![Message from stakeholder in Text exchange 1](/assets/images/TextExchange1_C+PMesage.jpg)
 
 This is clearly a highly-incriminating message that should never have been sent to Gillian.
 
