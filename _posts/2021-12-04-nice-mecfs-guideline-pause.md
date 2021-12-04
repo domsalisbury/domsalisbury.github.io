@@ -16,7 +16,9 @@ Aware of the significant resistance to the draft guideline from certain quarters
 >I am asking that NICE provides any and all
 (i) internal correspondence/communication between NICE staff (including that involving the guideline committee or any individual member(s) of the committee); and
 (ii) external correspondence/communication with professional bodies or individuals (guideline stakeholders or otherwise);
+>
 that details or relates to the the decision to pause publication of the final guideline and any justification given for the pause. This should include - but is not limited to - evidence of the issues and concerns raised during the pre-publication period with the final guideline, and NICE's responses to these issues/concerns.
+>
 Please include all correspondence pertaining to the above stated matters between 29 March 2021 and 17 August, 2021. My request is not limited to only the pre-publication period (4–18 August 2021) as the decision to pause may have been influenced by opposition to the guideline or other issues/concerns registered before the pre-publication period.
 
 I received a delayed response to my request on October 29, just hours after the guideline was finally published. On November 1, I requested that NICE conduct an internal review of its decisions, and, with some decisions overturned, on November 15 I obtained an updated set of documents from NICE. This set of updated, post-internal review documents can be found [here](https://www.dropbox.com/sh/ebxle4dmjru8z90/AABZIyUmPpyjcPvQeQ82FWFxa?dl=0), along with a readme file and a copy of my internal review request and the response from NICE.
