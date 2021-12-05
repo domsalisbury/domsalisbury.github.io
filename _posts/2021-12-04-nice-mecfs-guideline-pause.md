@@ -46,7 +46,7 @@ On 11 August, Paul reached out via text message (Text exchange 2) to an individu
 
 {:refdef: style="text-align: center;"}
 ![Detail from Text exchange 2](/assets/images/TextExchange2_Page2.png){:height="60%" width="60%"}
-{: refdef}
+{:refdef}
 
 This individual then emails Paul later that evening (Document 4). In their email, this individual makes similar claims as those made by the author of the copied and pasted message in Text exchange 1 — namely that trials have been excluded on spurious grounds, and that the guideline is now opinion-based rather than evidence-based — they are additionally concerned about the optics of NICE removing so-called treatments and offering nothing new in their place, and the potential damage to NICE's reputation, though this seems to be written from a place of strategy and persuasion as much as it was genuine concern for NICE. The email finishes with the author reiterating their call for delay/postponement of the guideline.
 
