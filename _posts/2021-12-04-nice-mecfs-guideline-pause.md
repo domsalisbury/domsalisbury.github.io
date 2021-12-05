@@ -44,9 +44,7 @@ One of the key reasons for my requesting an internal review was to find out the 
 ## "The least worse option is to delay or pull it altogether"
 On 11 August, Paul reached out via text message (Text exchange 2) to an individual at NHS England & NHS Improvement (NHSE&I), asking if they've seen the embargoed guideline, and suggesting they talk on the phone. With a phone conversation likely having taken place that afternoon, Paul messages this individual back saying "we are considering our options, more next week" (shown below). This is followed by a message from the individual at NHSE&I suggesting that "the least worst option is to delay it or pull it altogether."
 
-<p align="center">
 ![Detail from Text exchange 2](/assets/images/TextExchange2_Page2.png){:height="60%" width="60%"}
-</p>
 
 This individual then emails Paul later that evening (Document 4). In their email, this individual makes similar claims as those made by the author of the copied and pasted message in Text exchange 1 — namely that trials have been excluded on spurious grounds, and that the guideline is now opinion-based rather than evidence-based — they are additionally concerned about the optics of NICE removing so-called treatments and offering nothing new in their place, and the potential damage to NICE's reputation, though this seems to be written from a place of strategy and persuasion as much as it was genuine concern for NICE. The email finishes with the author reiterating their call for delay/postponement of the guideline.
 
