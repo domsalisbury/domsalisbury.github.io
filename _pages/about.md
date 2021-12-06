@@ -15,7 +15,7 @@ In September 2017, I took a one-year position at [ECMWF](https://www.ecmwf.int/)
 
 I worked as a freelance copy-editor during 2019 and early 2020, editing manuscripts for publication in leading atmospheric science, ocean science, climate, and meteorology journals.
 
-I have been a member of the Patient Advisory Group (PAG) to the CFS/ME Research Collaborative ([CMRC](https://meassociation.org.uk/research/cfsme-research-collaborative/)) since late 2018. The CMRC PAG supports patient-centred biomedical research into ME/CFS and ancillary processes by providing a direct patient voice — a voice that is as diverse and inclusive as possible. Our primary role is to deliver a patient perspective on the board of the CMRC (CFS/ME Research Collaborative). 
+I have been a member of the Patient Advisory Group (PAG) to the CFS/ME Research Collaborative ([CMRC](https://meassociation.org.uk/research/cfsme-research-collaborative/)) since late 2018. The CMRC PAG supports patient-centred biomedical research into ME/CFS and ancillary processes by providing a direct patient voice — a voice that is as diverse and inclusive as possible. PAG's primary role is to deliver a patient perspective on the board of the CMRC. 
 
 <!--I hope to use this site to keep a [regular but infrequent journal](https://domsalisbury.github.io/categories/almanac/), and post about ME/CFS, illness, healthcare, and related issues.-->
 
