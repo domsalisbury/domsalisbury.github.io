@@ -5,6 +5,7 @@ categories:
 tags:
   - mecfs
 classes: wide
+image: /assets/images/TextExchange1_C+PMesage.jpg
 ---
 
 On August 4 2021, an embargoed copy of the final NICE guideline for ME/CFS — already severely delayed — was distributed to registered stakeholders "for a final factual error check, to enable [stakeholders] to highlight to NICE any substantive errors, and to prepare for publication and implementation." The official publication of the guideline was scheduled for August 18.
