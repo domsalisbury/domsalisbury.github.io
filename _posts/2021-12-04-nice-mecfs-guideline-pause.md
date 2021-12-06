@@ -11,7 +11,7 @@ On August 4 2021, an embargoed copy of the final NICE guideline for ME/CFS — a
 
 However, on August 17, less than 12 hours before the scheduled publication time, NICE released a statement announcing that the guideline was being "paused", citing "issues raised during the pre-publication period with the final guideline." According to the statement, "unless the recommendations in the guideline are supported and implemented by professionals and the NHS, people with ME/CFS may not get the care and help they need." On August 27, NICE released a further statement announcing that it was to "hold a roundtable event to better understand the issues raised and determine how it can gain support for the guideline to ensure effective implementation."
 
-Aware of the significant resistance to the draft guideline from certain quarters, and wanting to understand exactly what had transpired leading up to the decision by NICE to pause the guideline, on August 17 I [submitted a FOI request to NICE](https://www.whatdotheyknow.com/request/nices_decision_to_pause_publicat#incoming-1905526).
+Aware of the significant resistance to the draft guideline from certain quarters, as well as the resignations of three of the guideline committee announced in early August, and wanting to understand exactly what had transpired leading up to the decision by NICE to pause the guideline, on August 17 I [submitted a FOI request to NICE](https://www.whatdotheyknow.com/request/nices_decision_to_pause_publicat#incoming-1905526).
 
 >I am asking that NICE provides any and all
 (i) internal correspondence/communication between NICE staff (including that involving the guideline committee or any individual member(s) of the committee); and
