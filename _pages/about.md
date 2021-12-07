@@ -13,9 +13,9 @@ Prior to becoming too ill to maintain a job, I worked in scientific research in 
 
 In September 2017, I took a one-year position at [ECMWF](https://www.ecmwf.int/) working on the representation of the ocean's diurnal cycle in coupled models, but by this stage my health was declining further. I managed to stay in the role until the end of my contract with a lot of support and by moving first to part-time hours and then to remote working.
 
-I worked as a freelance copy-editor during 2019 and early 2020, editing manuscripts for publication in leading atmospheric science, ocean science, climate, and meteorology journals.
+I worked part-time as a freelance copy-editor during 2019 and early 2020, editing manuscripts for publication in leading atmospheric science, ocean science, climate, and meteorology journals.
 
-I have been a member of the Patient Advisory Group (PAG) to the CFS/ME Research Collaborative ([CMRC](https://meassociation.org.uk/research/cfsme-research-collaborative/)) since late 2018. The CMRC PAG supports patient-centred biomedical research into ME/CFS and ancillary processes by providing a direct patient voice — a voice that is as diverse and inclusive as possible. PAG's primary role is to deliver a patient perspective on the board of the CMRC. 
+I have been a member of the Patient Advisory Group (PAG) to the CFS/ME Research Collaborative ([CMRC](https://meassociation.org.uk/research/cfsme-research-collaborative/)) since January 2019. The CMRC PAG supports patient-centred biomedical research into ME/CFS and ancillary processes by providing a direct patient voice — a voice that is as diverse and inclusive as possible. PAG's primary role is to deliver a patient perspective on the board of the CMRC.
 
 <!--I hope to use this site to keep a [regular but infrequent journal](https://domsalisbury.github.io/categories/almanac/), and post about ME/CFS, illness, healthcare, and related issues.-->
 
