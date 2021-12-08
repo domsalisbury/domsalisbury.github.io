@@ -6,7 +6,7 @@ tags:
   - health
 classes: wide
 ---
-I became ill in spring 2012 with a nondescript viral illness during a period of heightened stress. I was erroneously prescribed an antibiotic — most likely penicillin or amoxicillin — for what was probably a viral illness, and I feel this may have played a role in me developing a long-term illness.
+I became ill in spring 2012 with a nondescript viral illness during a period of heightened stress. I was erroneously prescribed an antibiotic — most likely penicillin or amoxicillin — and I feel this may have played a role in me developing a long-term illness.
 
 For several years I lived with three core symptoms: mild fatigue, mild muscle pain and tenderness, and unilateral tinnitus that started a couple of weeks after I first became ill. Throughout this period, I was able to work full time (though often relying on the relative flexibility of academia) and exercise regularly.
 
