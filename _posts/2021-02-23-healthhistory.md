@@ -8,7 +8,7 @@ classes: wide
 ---
 I became ill in spring 2012 with a nondescript viral illness during a period of heightened stress. I was erroneously prescribed an antibiotic — most likely penicillin or amoxicillin — and I feel this may have played a role in me developing a long-term illness.
 
-For several years I lived with three core symptoms: mild fatigue, mild muscle pain and tenderness, and unilateral tinnitus that started a couple of weeks after I first became ill. Throughout this period, I was able to work full time (though often relying on the relative flexibility of academia) and exercise regularly.
+For several years I lived with three core symptoms: mild fatigue, mild muscle pain and tenderness, and unilateral tinnitus that started a couple of weeks after I first became ill. Throughout this period, I was able to work full time (though often relying on the relative flexibility of academia) and I could still exercise regularly.
 
 My symptoms started to increase in severity in late 2016, and I wasn't able to exercise or remain in work. It was around this time that my symptoms became consistent with ME/CFS. I started a new position after a period of 8 months out of work, but it was too much; within months I was down to part time and really struggling. I finished the short-term contract working mostly from home and unable to spend much time in front of a computer due to extreme fatigue, vision issues, and a feeling like my brain just wasn’t able to keep up and process information correctly. I have been unable to work at all since 2019, and am mostly housebound.
 
