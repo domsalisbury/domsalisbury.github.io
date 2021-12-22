@@ -114,7 +114,7 @@ author:
       # url: mailto:dom.salisbury@outlook.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://domsalisbury.github.io"
+      # url: "https://domsalisbury.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/domsalisbury"
