@@ -54,11 +54,11 @@ Yet, despite casting off the most bombastic (and harmful) elements of the decond
 ## Tinkering around the edges
 The revised NICE guideline for ME/CFS is likely to cause some disarray within the NHS specialist clinics, particularly those that have not transitioned to a more flexible and diversified approach. There have been calls for many years from patients and advocates for appropriate reforms and funding. The new guideline may provide some impetus for change — as might the demand for similar services for long-Covid patients — but it will be all too easy for the clinics and their staff to remain somewhat wedded to the old narratives.
 
-I recently came across inclusion of the concept of dysregulation in a recently-revised pamphlet from the South West London and Surrey Chronic Fatigue Service. A section of text in the [July 2018](NHS_Epsom_StHelier_CFS_Booklet_2018.pdf) version of the booklet read:
+I recently came across inclusion of the concept of dysregulation in a recently-revised pamphlet from the South West London and Surrey Chronic Fatigue Service. A section of text in the [July 2018](/assets/NHS_Epsom_StHelier_CFS_Booklet_2018.pdf) version of the booklet read:
 
 >'The increased fatigue that people with CFS experience usually leads them to take prolonged rest. This prolonged rest has physical consequences. Medical investigations show that there is no disease cause for these physical symptoms, they occur as a direct result of inactivity and prolonged rest.'
 
-In the latest implementation of the booklet [(July 2020)](NHS_Epsom_StHelier_CFS_Booklet_2020.pdf), this section reads:
+In the latest implementation of the booklet [(July 2020)](/assets/NHS_Epsom_StHelier_CFS_Booklet_2020.pdf), this section reads:
 
 >'The increased fatigue that people with ME/CFS experience usually leads them to take prolonged rest. This prolonged rest has physical consequences. Medical investigations show that there is no disease cause for these physical symptoms. They are related to the dysregulation of several body systems in particular the autonomic nervous system, HPA axis and the immune system. Coping strategies such as prolonged rest and inactivity can inadvertently maintain the symptoms.'
 
