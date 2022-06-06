@@ -5,7 +5,7 @@ classes: wide
 ---
 
 <!--This is a comment-->
-I created this site to record some thoughts, to encourage me to write more, and to share whatever ended up here. It's also a way for me to mess about with Git, Github Pages, and Markdown.
+I created this site to record some thoughts, to encourage me to write more, and to share whatever ended up here. It's also a way for me to further my skills with Git, Github Pages, and Markdown.
 
 I've now been ill with symptoms consistent with [myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)](https://www.cdc.gov/me-cfs/about/index.html) since late 2016, though I wasn't fully well for several years before that. My diagnosis of ME/CFS seems to fit my symptoms and illness trajectory better than any other possible diagnosis.
 
@@ -15,7 +15,7 @@ In September 2017, I took a one-year position at [ECMWF](https://www.ecmwf.int/)
 
 I worked part-time as a freelance copy-editor during 2019 and early 2020, editing manuscripts for publication in leading atmospheric science, ocean science, climate, and meteorology journals.
 
-I have been a member of the Patient Advisory Group (PAG) to the CFS/ME Research Collaborative ([CMRC](https://meassociation.org.uk/research/cfsme-research-collaborative/)) since January 2019. The CMRC PAG supports patient-centred biomedical research into ME/CFS and ancillary processes by providing a direct patient voice — a voice that is as diverse and inclusive as possible. PAG's primary role is to deliver a patient perspective on the board of the CMRC.
+Since January 2019, I have been a member of the Patient Advisory Group (PAG) to the ME Research Collaborative ([MERC](https://meassociation.org.uk/research/cfsme-research-collaborative/)), which was previously known as the CFS/ME Research Collaborative (CMRC). MERC PAG supports patient-centred biomedical research into ME/CFS and ancillary processes by providing a direct patient voice — a voice that is as diverse and inclusive as possible. PAG's primary role is to deliver a patient perspective on the board of MERC, but we also have key involement with Forward-ME, the NICE guideline process, and, more recently, the newly-formed UKCRC Subgroup on ME.
 
 <!--I hope to use this site to keep a [regular but infrequent journal](https://domsalisbury.github.io/categories/almanac/), and post about ME/CFS, illness, healthcare, and related issues.-->
 
