@@ -5,7 +5,7 @@ classes: wide
 ---
 
 <!--This is a comment-->
-I created this site to record some thoughts, to encourage me to write more, and to share whatever ended up here. It's also a way for me to further my skills with Git, Github Pages, and Markdown.
+I created this site to record some thoughts, and to encourage me to write more and publish anything worth sharing. It's also a way for me to further my skills with Git, Github Pages, and Markdown. However, my illness means content will be added sporadically and infrequently, and there will be long spells when nothing will be added to the site.
 
 I've now been ill with symptoms consistent with [myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)](https://www.cdc.gov/me-cfs/about/index.html) since late 2016, though I wasn't fully well for several years before that. My diagnosis of ME/CFS seems to fit my symptoms and illness trajectory better than any other possible diagnosis.
 

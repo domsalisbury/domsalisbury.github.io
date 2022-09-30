@@ -28,3 +28,12 @@ Forward-ME-commissioned patient survey 'Evaluation of a survey exploring the exp
 MEAction-UK ['Your experience of ME/CFS services' patient survey](https://www.meaction.net/wp-content/uploads/2019/10/Your-experience-of-ME-services-Survey-report-by-MEAction-UK.pdf) in September–October 2019.
 
 https://s4me.info/threads/treatment-harms-to-patients-with-me-cfs-david-f-marks.19512/
+
+
+## Long-Covid and expansion of NHS ME/CFS Specialist Services
+https://measussex.org.uk/coronavirus-aftermath-may/
+Miller paper on long-Covid
+
+https://mecfsskeptic.com/the-nice-guideline-committee-and-grade-methodology/
+
+https://www.bmj.com/content/371/bmj.m4774
