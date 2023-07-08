@@ -27,4 +27,25 @@ In this blog, based on data covering 2003–2023, I show that efforts to stimula
 
 (iv) The success rate The MRC success rate is cited as approximately 25%. In other words, 1 in 4 proposals is successfully funded.
 
-(v) NIHR funding
+| year    |   successful |   unsuccessful |   total |
+|:--------|-------------:|---------------:|--------:|
+| 2003/04 |            0 |              2 |       2 |
+| 2004/05 |            0 |             10 |      10 |
+| 2005/05 |            2 |             15 |      17 |
+| 2006/07 |            0 |              3 |       3 |
+| 2007/08 |            1 |              4 |       5 |
+| 2008/09 |            0 |              4 |       4 |
+| 2009/10 |            0 |              1 |       1 |
+| 2010/11 |            0 |              3 |       3 |
+| 2011/12 |            5 |              5 |      10 |
+| 2012/13 |            1 |              1 |       2 |
+| 2013/14 |            0 |              4 |       4 |
+| 2014/15 |            0 |              1 |       1 |
+| 2015/16 |            1 |              2 |       3 |
+| 2016/17 |            0 |              1 |       1 |
+| 2017/18 |            0 |              3 |       3 |
+| 2018/19 |            0 |              1 |       1 |
+| 2019/20 |            0 |              2 |       2 |
+| 2020/21 |            1 |              3 |       4 |
+| 2021/22 |            0 |              3 |       3 |
+| 2022/23 |            0 |              2 |       2 |
