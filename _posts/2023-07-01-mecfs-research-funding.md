@@ -28,7 +28,7 @@ In this blog, based on data covering 2003–2023, I show that efforts to stimula
 (iv) The success rate The MRC success rate is cited as approximately 25%. In other words, 1 in 4 proposals is successfully funded.
 
 | year    |   successful |   unsuccessful |   total |
-|:--------|-------------:|---------------:|--------:|
+|:-------:|:------------:|:--------------:|:-------:|
 | 2003/04 |            0 |              2 |       2 |
 | 2004/05 |            0 |             10 |      10 |
 | 2005/05 |            2 |             15 |      17 |
