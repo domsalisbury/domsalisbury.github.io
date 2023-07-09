@@ -49,7 +49,7 @@ Yet, despite casting off the most bombastic (and harmful) elements of the decond
 
 2. Is there an inherent assumption that patients can 're-regulate'? The narrative in the new model seems to be that with self-management and certain interventions patients can re-regulate their bodies on a path to rehabilitation (if not full recovery). The dysregulation is seen as reversible. This allows the narrative (myth) of expected recovery/rehabilitation to continue.
 
-3. Is there a need for yet another vague model of this illness, given we know so little about its pathophysiology, and given the heterogeneity in patients' symptoms and illness course? Is simply focusing on symptom management and support (where needed) not an option? 
+3. Is there a need for yet another vague model of this illness, given we know so little about its pathophysiology, and given the heterogeneity in patients' symptoms and illness course? Is simply focusing on symptom management and support (where needed) not an option?
 
 ## Tinkering around the edges
 The revised NICE guideline for ME/CFS is likely to cause some disarray within the NHS specialist clinics, particularly those that have not transitioned to a more flexible and diversified approach. There have been calls for many years from patients and advocates for appropriate reforms and funding. The new guideline may provide some impetus for change — as might the demand for similar services for long-Covid patients — but it will be all too easy for the clinics and their staff to remain somewhat wedded to the old narratives.
