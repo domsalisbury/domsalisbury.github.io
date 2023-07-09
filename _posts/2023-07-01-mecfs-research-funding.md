@@ -7,17 +7,22 @@ tags:
 classes: wide
 ---
 
-ME/CFS is a poorly understood illness, despite what you might read online. To quote Prof. Jonathan Edwards: "There is still in fact nothing reliably established about the mechanism of ME. All is speculation." I think this is, unfortunately, a fair assessment. There are some interesting clues emerging — and myriad hypotheses — but research findings are almost never replicated, and I don't yet see evidence of convergence of disparate hypotheses.
+>“DecodeME cannot be the last M.E./CFS research project funded by taxpayers. Currently, low-level funding is yielding low-level evidence that fails to reach the high level of evidence required for competitive funding. Funders should act now and break this vicious cycle.” - Prof Chris Ponting, University of Edinburgh
+
+ME/CFS is a poorly understood illness, despite some claims to the contrary. To quote Prof. Jonathan Edwards: "There is still in fact nothing reliably established about the mechanism of ME. All is speculation." I think this is, unfortunately, a fair assessment. There are some interesting clues emerging — and myriad hypotheses — but research findings are almost never replicated, and I don't yet see evidence of convergence of disparate hypotheses.
 
 Studies have concluded that ME/CFS is one of the most underfunded illnesses that exists relative to disease burden. A 2020 study (https://content.iospress.com/articles/work/wor203173) focusing on the situation in the US found that "ME/CFS is more underfunded with respect to burden than any disease in NIH's analysis of funding and disease burden, with ME/CFS receiving roughly 7% of that commensurate with disease burden." 
 
-There are lots of reasons why this is the case, but fundamentally the level of biomedical research into the illness has been woeful. In the UK, patients and charities have spent decades fighting both for a significant increase in biomedical research funding and an end to poor quality biopsychosical research that misunderstands the illness and pushes 'treatments' that are ineffective and harmful. Much of the ME/CFS biomedical research that does happen in the UK is funded by several of the larger charities.
+There are lots of reasons why this is the case, but fundamentally the level of biomedical research into the illness has been woeful. In the UK, patients and charities have spent decades fighting for a significant increase in biomedical research funding and an end to poor quality biopsychosical research that misunderstands the illness and pushes 'treatments' that are ineffective and harmful. Much of the ME/CFS biomedical research that does happen in the UK is funded by several of the larger ME/CFS charities.
 
 UK government funding for ME/CFS research is via the Medical Research Council (MRC; one of seven UK Research and Innovation (UKRI) research councils) or the National Institute for Health and Care Research (NIHR; accountable to the Department of Heath and Social Care, and the research partner of the NHS); the former funds basic research to prevent illness, develop therapies, and improve human health, and the latter's focus is traslational research, clinical research, and applied health and care research. There is crossover between the type of projects funded by the MRC and NIHR, and the two funding agencies sometimes jointly fund research initiatives or individual research projects. Other UKRI research councils occassionally fund work that touches on ME/CFS; for example, ongoing research at the Quadram Institude to better understand the microbiome in ME/CFS is part-funded by the Biotechnology and Biological Sciences Research Council (BBSRC).
 
-In 2021, the MRC invested £3.2 million in DecodeME, a large genetic study into ME/CFS, which is currently underway. This seemed like a significant step forward, representing the largest single investment in biomedical ME/CFS research by the UK government. The project was funded after years of collaboration on the proposal between the MRC, researchers, patient representatives and charities.
+In a series of three blog posts, I will reassess the past two decades of research funding on ME/CFS by the UK government and summarise the current situation. The first blog will focus on the MRC; the second on NIHR; and the third will provide some personal thoughts on how we can improve the situation in the future.
 
-In this blog, based on data covering 2003–2023, I show that efforts to stimulate UK-government funded research into ME/CFS — including the MRC's ME/CFS Highlight Notice, now active for 20 years — have largely failed. Perhaps more importantly, the situation remains dire, and will remain dire until action is taken to stimulate ME/CFS research, bring new researchers into the field, and develop a network of research centres of excellence.
+## Part 1: MRC
+In 2021, the NIHR and MRC invested £3.2 million in DecodeME, a large genetic study into ME/CFS, which is currently underway. This seemed like a significant step forward, representing the largest single investment in biomedical ME/CFS research by the UK government. The project was funded after years of collaboration on the proposal between the MRC, researchers, patient representatives and charities.
+
+In this blog, based on data covering 2003–2023,
 
 (i) *At the time of writing — July 2023 — DecodeME is the only active UK government-funded study that suitably qualifies as biomedical investigation into ME/CFS.* An NIHR-funded project into patient reported outcome measures in children with ME/CFS (https://fundingawards.nihr.ac.uk/award/NIHR200509), led by Prof Esther Crawley, is currently active. A search of NIHR's Funding and Awards database returns two active projects into long covid that may overlap with ME/CFS research, but these are not ME/CFS projects per se.
 
@@ -49,3 +54,9 @@ In this blog, based on data covering 2003–2023, I show that efforts to stimula
 | 2020/21 |            1 |              3 |       4 |
 | 2021/22 |            0 |              3 |       3 |
 | 2022/23 |            0 |              2 |       2 |
+
+efforts to stimulate UK-government funded research into ME/CFS — including the MRC's ME/CFS Highlight Notice, now active for 20 years — have largely failed. Perhaps more importantly, the situation remains dire, and will remain dire until action is taken to stimulate ME/CFS research, bring new researchers into the field, and develop a network of research centres of excellence.
+
+Breakthrough ME
+Ponting quote
+Charities need to work together on a joint plan for research
