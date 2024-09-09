@@ -5,7 +5,7 @@ classes: wide
 ---
 
 <!--This is a comment-->
-I created this site to encourage me to write more and publish anything worth sharing. It's also a way for me to play around with Git, Github Pages, and Markdown. However, my illness means content will be added sporadically and infrequently, and there will be long spells when nothing will be added to the site.
+I created this site to encourage me to write more and publish anything worth sharing. It's also a way for me to play around with Git, Github Pages, and Markdown. However, illness means content will be added sporadically and infrequently, and there will be long spells when the site will lay dormant.
 
 I've now been ill with [myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)](https://www.cdc.gov/me-cfs/about/index.html) since late 2016, though I wasn't fully well for several years before that. More recently I have developed symptoms consistent with POTS/dysautonomia/orthosatic intolerance, which are very common in people with ME/CFS. I also suffer with severe tinnitus and problems with visual processing that align with a [diagnosis of visual snow syndrome](https://www.visualsnowinitiative.org/), which is much more than the singluar symptom of seeing 'visual snow'/static.
 
