@@ -30,3 +30,6 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+# Ignore temp file: Dom Oct 2024
+temp/
