@@ -1,5 +1,5 @@
 ---
-title: "A collossal, decades-long failure: Five shocking facts about the dire state of UK government funding for ME/CFS research"
+title: "Why isn't the UK state funding biomedical ME/CFS research?"
 categories:
   - mecfs
 tags:
