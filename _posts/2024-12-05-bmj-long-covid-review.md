@@ -4,6 +4,7 @@ categories:
   - me/cfs
 tags:
   - me/cfs
+  - long covid
 classes: wide
 ---
 

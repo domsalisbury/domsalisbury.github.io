@@ -1,9 +1,9 @@
 ---
 title: "Behind the scenes at NICE: The justification for further delay to the ME/CFS guideline publication date"
 categories:
-  - mecfs
+  - me/cfs
 tags:
-  - mecfs
+  - me/cfs
 classes: wide
 ---
 

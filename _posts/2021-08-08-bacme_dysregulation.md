@@ -1,10 +1,10 @@
 ---
 title: "BACME, NHS ME/CFS clinics shift from deconditioning to dysregulation model of ME/CFS in anticipation of updated NICE guideline"
 categories:
-  - mecfs
+  - me/cfs
 tags:
   - NHS
-  - mecfs
+  - me/cfs
   - bacme
 classes: wide
 ---
