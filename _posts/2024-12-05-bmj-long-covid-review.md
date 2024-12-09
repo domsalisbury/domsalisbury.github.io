@@ -3,7 +3,7 @@ title: "Rapid response to the BMJ 'living systematic review' of long COVID inter
 categories:
   - mecfs
 tags:
-  - mecfs
+  - me/cfs
   - long covid
 classes: wide
 ---
