@@ -1,7 +1,7 @@
 ---
 title: "Text-message lobbying of senior NICE staff by individuals at NHS England and the Royal College of Psychiatrists in days before ME/CFS guideline pause"
 categories:
-  - me/cfs
+  - mecfs
 tags:
   - me/cfs
 classes: wide

@@ -1,7 +1,7 @@
 ---
 title: "Rapid response to the BMJ 'living systematic review' of long COVID interventions"
 categories:
-  - me/cfs
+  - mecfs
 tags:
   - me/cfs
   - long covid
