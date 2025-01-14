@@ -13,8 +13,7 @@ It occured to me recently that there are quite a number of similarities between 
 |  :----------------  |  :------:  |  :----:  |
 | Historical understanding | Caused by stressful events, unhappiness, loneliness | Prolonged or absent recovery after infection (usually viral) |
 | Theory | Chemical (serotonin) imbalance | Illness perpetuated by fear avoidance and deconditioning |
-| Evidence supporting hypothesis | Indirect and inconsistent measurements; responses to similar medications | Apparent patient behaviour; lack of biomarker |
+| Evidence supporting theory | Indirect and inconsistent measurements; responses to similar medications | Apparent patient behaviour; lack of biomarker |
 | Suggested treatments | SSRI/SNRI medications | Graded exercise therapy (GET) and/or cognitive behavioural therapy (CBT) |
 | Treatment harms | Drug side effects, dependency & withdrawal effects | Worsening of symptoms; increased disability |
 | Present understanding | Unknown & disputed: Numerous mechanisms — e.g., brain network dysfunction; inflammation — probably also involved | Unknown: Numerous mechanisms — e.g., immune and neurological dysfunction; metabolic disturbances — likely implicated |
-
