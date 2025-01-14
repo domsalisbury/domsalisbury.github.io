@@ -12,7 +12,7 @@ It occured to me recently that there are quite a number of similarities between 
 || Depression | ME/CFS |
 |  :----------------  |  :------:  |  :----:  |
 | Historical understanding | Caused by stressful events, unhappiness, loneliness | Prolonged or absent recovery after infection (usually viral) |
-| Theory | Chemical (serotonin) imbalance | Illness perpetuated by fear avoidance and deconditioning |
+| Theory | Chemical (serotonin) imbalance | Illness perpetuated by psychosocial factors: fear avoidance and deconditioning |
 | Evidence supporting theory | Indirect and inconsistent measurements; responses to similar medications | Apparent patient behaviour; lack of biomarker |
 | Suggested treatments | SSRI/SNRI medications | Graded exercise therapy (GET) and/or cognitive behavioural therapy (CBT) |
 | Treatment harms | Drug side effects, dependency & withdrawal effects | Worsening of symptoms; increased disability |
