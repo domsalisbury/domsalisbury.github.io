@@ -1,5 +1,5 @@
 ---
-title: "ME/CFS, depression, and poorly evidenced hypotheses"
+title: "ME/CFS, depression, and poorly evidenced theories"
 categories:
   - me/cfs
 tags:
@@ -7,7 +7,7 @@ tags:
 classes: wide
 ---
 
-It occured to me recently that there are quite a number of similarities between the chemical imbalance theory of depression, the traditional biopsychosocial view of ME/CFS, and how these hypotheses came to dominate our understanding of both illnesses and how they should be treated. This might not be a groundbreaking observation, but it is probably useful to set out the similarites.
+It occured to me recently that there are quite a number of similarities between the chemical imbalance theory of depression, the traditional biopsychosocial view of ME/CFS, and how these 'models' came to dominate our understanding of both illnesses and how they should be treated. This might not be a groundbreaking observation, but it is probably useful to set out the similarites.
 
 || Depression | ME/CFS |
 |  :----------------  |  :------:  |  :----:  |
