@@ -7,7 +7,7 @@ tags:
 classes: wide
 ---
 
-It occured to me recently that there are quite a number of similarities between the chemical imbalance theory of depression, the traditional biopsychosocial view of ME/CFS, and how these 'models' came to dominate our understanding of both illnesses and how they should be treated. This might not be a groundbreaking observation, but it is probably useful to set out the similarites.
+It occured to me recently that there are quite a number of similarities between the chemical imbalance theory of depression, the traditional biopsychosocial view of ME/CFS, and how these `models' came to dominate our understanding of both illnesses and how they should be treated. This might not be a groundbreaking observation, but it is probably useful to set out the similarites.
 
 || Depression | ME/CFS |
 |  :----------------  |  :------:  |  :----:  |
@@ -16,4 +16,4 @@ It occured to me recently that there are quite a number of similarities between 
 | Evidence supporting hypothesis | Indirect and inconsistent measurements; responses to similar medications | Apparent patient behaviour; lack of biomarker |
 | Suggested treatments | SSRI/SNRI medications | Graded exercise therapy (GET) and/or cognitive behavioural therapy (CBT) |
 | Treatment harms | Drug side effects, dependency & withdrawal effects | Worsening of symptoms; increased disability |
-| Present understanding | Unknown & disputed: Numerous mechanisms — e.g., brain network dysfunction; inflammation — probably also involved | Unknown & disputed: Numerous mechanisms — immune and neurological dysfunction; metabolic disturbances — likely implicated |
+| Present understanding | Unknown & disputed: Numerous mechanisms — e.g., brain network dysfunction; inflammation — probably also involved | Unknown & disputed: Numerous mechanisms — e.g., immune and neurological dysfunction; metabolic disturbances — likely implicated |
