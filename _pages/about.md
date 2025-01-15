@@ -5,7 +5,7 @@ classes: wide
 ---
 
 <!--This is a comment-->
-I created this site to encourage me to write more and publish anything worth sharing. It's also a way for me to play around with Git, Github Pages, and Markdown. However, illness means content will be added sporadically and infrequently, and there will be long spells when the site will lay dormant.
+I created this site to encourage me to write more and publish anything worth sharing. It's also a way for me to play around with Git, Github Pages, and Markdown. However, illness means content will be added sporadically and infrequently, and there will be long spells when the site will lie dormant.
 
 I've now been ill with [myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)](https://www.cdc.gov/me-cfs/about/index.html) since late 2016, though I wasn't fully well for several years before that. More recently I have developed symptoms consistent with POTS/dysautonomia/orthostatic intolerance, which are very common in people with ME/CFS. I also suffer with severe tinnitus and problems with visual processing that align with a diagnosis of [visual snow syndrome](https://www.visualsnowinitiative.org/), which is much more than the singular symptom of seeing 'visual snow'/static.
 
@@ -15,8 +15,6 @@ In September 2017, I took a one-year position at [ECMWF](https://www.ecmwf.int/)
 
 I worked part-time as a freelance copy-editor during 2019 and early 2020, editing manuscripts for publication in leading atmospheric science, ocean science, climate, and meteorology journals.
 
-For three years I volunteered as a member of the Patient Advisory Group (PAG) to the ME Research Collaborative ([MERC](https://meassociation.org.uk/research/cfsme-research-collaborative/)), formerly known as the CFS/ME Research Collaborative (CMRC). MERC PAG supports patient-centred biomedical research into ME/CFS and ancillary processes by providing a direct patient voice — a voice that is as diverse and inclusive as possible. PAG's primary role is to deliver a patient perspective on the board of MERC, but PAG also has key involvement with Forward-ME, the NICE guideline process, and, more recently, the UK government's ME/CFS Delivery Plan.
-
-As of 2023, I have not been able to do much in the way of ME advocacy because of my health, though I am still somewhat active on X and on the S4ME forum.
+For three years I volunteered as a member of the Patient Advisory Group (PAG) to the ME Research Collaborative ([MERC](https://meassociation.org.uk/research/cfsme-research-collaborative/)), formerly known as the CFS/ME Research Collaborative (CMRC). MERC PAG supports patient-centred biomedical research into ME/CFS and ancillary processes by providing a direct patient voice. PAG's primary role is to deliver a patient perspective on the board of MERC, but PAG also has key involvement with Forward-ME, the NICE guideline process, and, more recently, the UK government's ME/CFS Delivery Plan.
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-2011-8490" href="https://orcid.org/0000-0002-2011-8490" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-2011-8490</a></div>
