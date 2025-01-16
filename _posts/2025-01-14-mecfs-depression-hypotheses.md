@@ -1,7 +1,7 @@
 ---
 title: "ME/CFS, depression, and poorly evidenced theories"
 categories:
-  - me/cfs
+  - mecfs
 tags:
   - me/cfs
 classes: wide
