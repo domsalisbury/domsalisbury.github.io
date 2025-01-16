@@ -7,7 +7,7 @@ tags:
 classes: wide
 ---
 
-It occured to me recently that there are quite a number of similarities between the chemical imbalance theory of depression and the traditional (bio)psychosocial view of ME/CFS, with regard to how these 'models' came to dominate our understanding of both illnesses and how they should be treated. This is certainly not a groundbreaking observation, but it is probably useful to set out the similarities, while noting that whereas the chemical imbalance theory gave a physiological footing to depression, the (bio)psychosocial model of ME/CFS is based on the view that the illness is not driven by any biological abnormalities indicitive of disease.
+It occured to me recently that there are quite a number of similarities between the chemical imbalance theory of depression and the traditional (bio)psychosocial view of ME/CFS, with regard to how these simplistic 'models' came to dominate narratives about both illnesses and how they should be treated. This is certainly not a groundbreaking observation, but it is probably useful to set out the similarities, while noting that whereas the chemical imbalance theory gave a physiological footing to depression, the (bio)psychosocial model of ME/CFS is based on the view that the illness is not driven by any biological abnormalities indicitive of disease.
 
 || Depression | ME/CFS |
 |  :----------------  |  :------:  |  :----:  |
