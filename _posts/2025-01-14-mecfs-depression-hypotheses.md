@@ -1,5 +1,5 @@
 ---
-title: "ME/CFS, depression, and poorly evidenced theories"
+title: "Psychiatry and its poorly-evidenced theories: 'Chemical imbalances' in depression, and 'dysfunctional illness beliefs' in ME/CFS"
 categories:
   - mecfs
 tags:
