@@ -4,7 +4,6 @@ categories:
   - health
 tags:
   - health
-classes: wide
 ---
 I became ill in spring 2012 with what was likely a nondescript viral illness, during a period of heightened stress. I was prescribed the antibiotic phenoxymethylpenicillin, and I feel this may have played a role in my developing a long-term illness.
 

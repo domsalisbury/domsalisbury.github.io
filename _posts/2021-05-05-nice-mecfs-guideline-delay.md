@@ -4,7 +4,6 @@ categories:
   - mecfs
 tags:
   - me/cfs
-classes: wide
 ---
 
 On March 29, the [National Institute for Health and Care Excellence (NICE)](https://www.nice.org.uk/) announced that the expected publication date for the revised guideline for ME/CFS had been pushed back from 21 April 2021 to 18 August 2021 "because of the large number of comments received during consultation on the ME/CFS guideline, and the additional work needed to respond to them fully."

@@ -4,7 +4,6 @@ categories:
   - mecfs
 tags:
   - me/cfs
-classes: wide
 image: /assets/images/TextExchange1_C+PMesage.jpg
 ---
 

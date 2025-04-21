@@ -6,7 +6,6 @@ tags:
   - NHS
   - me/cfs
   - bacme
-classes: wide
 ---
 
 The [British Association for Clinicians in ME/CFS (BACME)](https://www.bacme.info/) describes itself as 'a multidisciplinary organisation for UK professionals who are involved in the delivery of clinically effective services for patients with ME/CFS.' Membership is open to clinicians and researchers, including psychologists, medical doctors, managers, students, and physiotherapists. BACME provides resources, education, and professional development to its members, who primarily work within the network of locally-commissioned specialist ME/CFS clinics scattered around the country. As such, BACME has huge influence over how these clinics are run. BACME also has influence on the NICE guideline for ME/CFS, with members on the guideline Committee. In addition, BACME members have led or been involved with key research studies and clinical trials that form part of the guideline evidence base.

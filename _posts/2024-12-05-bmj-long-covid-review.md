@@ -5,7 +5,6 @@ categories:
 tags:
   - me/cfs
   - long covid
-classes: wide
 ---
 
 The BMJ (British Medical Journal) recently published a ['living' systematic review of interventions for long COVID (post-COVID condition)](https://www.bmj.com/content/387/bmj-2024-081318) by Zeraatkhar and coauthors.
