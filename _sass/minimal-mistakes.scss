@@ -4,31 +4,6 @@ article.page {
     width: 100%;
 }
 
-/* Added April 2025 - Remove space reserved for sidebar / author profile */
-.wide2 {
-    .page {
-      float: left;
-      width: 100%;
-      @include breakpoint($large) {
-        padding-left: 0;
-      }
-  
-      @include breakpoint($x-large) {
-        padding-left: 0;
-      }
-    }
-  
-    .page__related {
-      @include breakpoint($large) {
-        padding-left: 0;
-      }
-  
-      @include breakpoint($x-large) {
-        padding-left: 0;
-      }
-    }
-  }
-
 /* Copyright comment */
 @import "minimal-mistakes/copyright";
 
