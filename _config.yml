@@ -35,7 +35,7 @@ enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
 comments:
-  provider               : "false" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : "domsalisbury-github-io"
   discourse:
@@ -327,7 +327,7 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: false #true shows You May Also Enjoy
+      related: false #true shows 'You May Also Enjoy' related pages
       show_date: true
   # _pages (added by Dom 11 Feb 2020)
   - scope:
