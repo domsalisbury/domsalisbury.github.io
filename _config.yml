@@ -327,7 +327,7 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
+      related: false #true shows You May Also Enjoy
       show_date: true
   # _pages (added by Dom 11 Feb 2020)
   - scope:
