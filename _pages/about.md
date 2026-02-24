@@ -14,6 +14,6 @@ In September 2017, I took a one-year position at [ECMWF](https://www.ecmwf.int/)
 
 I worked part-time as a freelance copy-editor during 2019 and early 2020, editing manuscripts for publication in leading atmospheric science, ocean science, climate, and meteorology journals.
 
-For three years I volunteered as a member of the Patient Advisory Group (PAG) to the ME Research Collaborative ([MERC](https://www.actionforme.org.uk/research-campaigns/our-research-work/uk-me-research-collaborative/)), formerly known as the CFS/ME Research Collaborative (CMRC). Now, much of my involvement in patient advocacy revolves around discussions on the Science For ME ([S4ME](https://https://www.s4me.info/)) forum.
+For three years I volunteered as a member of the Patient Advisory Group (PAG) to the ME Research Collaborative ([MERC](https://www.actionforme.org.uk/research-campaigns/our-research-work/uk-me-research-collaborative/)), formerly known as the CFS/ME Research Collaborative (CMRC). Now, much of my involvement in patient advocacy revolves around discussion and calls to action on the Science For ME ([S4ME](https://https://www.s4me.info/)) forum.
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-2011-8490" href="https://orcid.org/0000-0002-2011-8490" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-2011-8490</a></div>
