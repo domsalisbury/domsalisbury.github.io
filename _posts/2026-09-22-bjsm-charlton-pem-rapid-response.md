@@ -1,5 +1,5 @@
 ---
-title: "Rapid response to a BJSM discussion article on PEM and long covid"
+title: "Rapid response to a British Journal of Sports Medicine discussion article on PEM and long covid"
 categories:
   - mecfs
 tags:
