@@ -8,6 +8,11 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+/* Editorial skin: rule overrides that must come AFTER the theme
+   (reading measure, link styling, heading colour, footer rule).
+   Variables for the same skin live in the skin file imported above. */
+@import "editorial-overrides";
+
 /* April 2025: Hack to remove LHS padding - works only partially */
 /* .page {
     @include breakpoint($large) {

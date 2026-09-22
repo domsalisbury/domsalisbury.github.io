@@ -1,0 +1,308 @@
+/* ==========================================================================
+   Editorial skin — rule overrides
+   --------------------------------------------------------------------------
+   Companion to _sass/minimal-mistakes/skins/_editorial.scss.
+
+   The skin file can only set variables, because it is imported before the
+   theme. Anything that has to override a RULE the theme already wrote lives
+   here, and assets/css/main.scss imports it last:
+
+       @import "minimal-mistakes/skins/editorial";
+       @import "minimal-mistakes";
+       @import "editorial-overrides";   <- this file
+
+   Four things are being corrected, in order below:
+     1. Reading measure — the theme runs body copy the full width of the
+        content area; prose is capped and centred instead.
+     2. Link styling — the theme leaves post titles with the browser's
+        default underline, so an archive page reads as a wall of links.
+     3. Heading colour and rules — headings take the darker ink, and the
+        automatic rule under every h2 is removed.
+     4. Footer — separated by a hairline rather than a block of colour.
+   ========================================================================== */
+
+
+/* Local tokens
+   --------------------------------------------------------------------------
+   $ink is a shade darker than $text-color: headings set solid benefit from
+   the extra weight, body copy set at 19px does not.
+
+   The measures are in em, so they track the root font-size set in the skin.
+   At the 19px desktop root: 38em ≈ 720px (about 70 characters of Charter,
+   the comfortable limit for continuous prose) and 40em ≈ 760px, a little
+   wider because the archive list is headlines and short excerpts rather
+   than running text. Widen both if the column ever feels mean.
+   ========================================================================== */
+
+$ink: #1c1b19;
+$measure-prose: 38em;
+$measure-list: 40em;
+
+
+/* 1. Reading measure
+   --------------------------------------------------------------------------
+   Minimal Mistakes reserves a right-hand gutter for the author sidebar on
+   wide screens, by floating .page / .archive and padding them by the sidebar
+   width. This site sets `author_profile: false`, so that gutter is empty and
+   the text simply runs long.
+
+   Undo the float and the reserved padding, then centre the content on its
+   own measure. Two things to know about the selectors:
+
+     - `article.page` rather than `.page`: minimal-mistakes.scss already
+       floats `article.page` left at the top of the file, and matching that
+       specificity is what makes this stick.
+     - The measure goes on the article, NOT on .page__inner-wrap. The theme
+       floats the inner wrapper (and .page__content inside it), and a floated
+       box ignores `margin-inline: auto` — capping it there leaves the column
+       hard against the left edge.
+
+   `display: flow-root` contains those floats so the article keeps its full
+   height; without it the footer rides up under the text.
+
+   If a table of contents (`toc: true`) is ever switched on for a post, it
+   renders inside .page__content and will be cramped at this width — widen
+   $measure-prose for those pages, or drop the .page rules below.
+   ========================================================================== */
+
+.archive,
+article.page {
+  display: flow-root;
+  float: none;
+  width: 100%;
+  padding-inline-end: 0;
+  margin-inline: auto;
+
+  @include breakpoint($large) {
+    float: none;
+    width: 100%;
+    padding-inline-end: 0;
+  }
+
+  @include breakpoint($x-large) {
+    width: 100%;
+    padding-inline-end: 0;
+  }
+}
+
+.archive {
+  max-width: $measure-list;
+}
+
+article.page {
+  max-width: $measure-prose;
+}
+
+
+/* 2. Links
+   --------------------------------------------------------------------------
+   Two different jobs, deliberately styled differently.
+
+   In running text a link is claret with a hairline underline, set below the
+   baseline so descenders stay legible. The theme only underlines on hover,
+   which leaves in-body links relying on colour alone — a problem for anyone
+   who cannot distinguish the claret from the surrounding ink.
+
+   A post title is a heading that happens to be clickable, so it stays ink
+   and picks up its underline on hover. The whole archive row is already a
+   click target via the theme's `a[rel="permalink"]::before` overlay.
+   ========================================================================== */
+
+.page__content a:not(.btn) {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  text-decoration-color: rgba($primary-color, 0.4);
+
+  &:hover {
+    text-decoration-color: currentColor;
+  }
+}
+
+.archive__item-title {
+  font-family: $header-font-family;
+  font-size: $h-size-2;
+  line-height: 1.26;
+  letter-spacing: -0.012em;
+  margin-bottom: 0.3em;
+
+  a {
+    color: $ink;
+    text-decoration: none;
+
+    &:visited {
+      color: $ink;
+    }
+
+    &:hover {
+      color: $ink;
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 3px;
+    }
+  }
+}
+
+.archive__item-excerpt {
+  font-size: 0.92em;
+  line-height: 1.66;
+  color: mix(#fff, $text-color, 22%);
+}
+
+/* A hairline between entries in the post list. The theme separates them with
+   whitespace alone, which at this measure lets long multi-line titles run
+   into the excerpt above them. :last-child keeps a stray rule off the bottom
+   of the list, above the pagination. */
+.list__item {
+  padding-bottom: 2em;
+  border-bottom: 1px solid $border-color;
+
+  &:last-child {
+    border-bottom: 0;
+  }
+}
+
+
+/* 3. Headings, meta and set-piece elements
+   ========================================================================== */
+
+h1, h2, h3, h4, h5, h6 {
+  color: $ink;
+  font-weight: 600; // Charter's bold is heavy; 600 picks semibold where available
+  letter-spacing: -0.012em;
+}
+
+.page__title {
+  line-height: 1.14;
+  letter-spacing: -0.018em;
+
+  a {
+    color: $ink;
+  }
+}
+
+/* The theme draws a rule under every h2 in post content. At this measure the
+   headings already separate themselves with space, and the rules made the
+   page look like a form. */
+.page__content h2 {
+  padding-bottom: 0;
+  border-bottom: 0;
+  margin-top: 1.8em;
+}
+
+/* Dates and read time, above the post and in the archive list. */
+.page__meta,
+.page__date,
+.archive__item .page__meta {
+  font-family: $caption-font-family;
+  font-size: $type-size-6;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: $muted-text-color;
+}
+
+/* "Posts" — the section heading on the home and category pages. The theme
+   styles it as muted small text; here it leads the page. */
+.archive__subtitle {
+  font-family: $header-font-family;
+  font-size: $h-size-2;
+  color: $ink;
+  letter-spacing: -0.015em;
+  margin: 0 0 1em;
+  padding-bottom: 0.4em;
+  border-bottom: 1px solid $border-color;
+}
+
+/* Masthead: site name in the serif, navigation left in Seravek. */
+.masthead {
+  background-color: $background-color;
+}
+
+.site-title {
+  font-family: $header-font-family;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.greedy-nav a {
+  font-size: 0.72em;
+  text-transform: uppercase;
+  letter-spacing: 0.13em;
+}
+
+/* The theme already gives blockquotes a $primary-color border and italics;
+   this just lightens the rule and sizes the text up slightly. */
+blockquote {
+  border-inline-start-width: 3px;
+  padding-inline-start: 1.2em;
+  color: mix(#fff, $text-color, 12%);
+}
+
+/* Tables: horizontal rules only, no filled header band. The theme fills
+   `thead` with $border-color and boxes the cells, which at this text size
+   reads as a form rather than as data. The `thead` rule has to be reset
+   here — a `background` on `th` alone does not cover it, because the fill
+   is painted on the row group behind the cells. */
+table {
+  font-size: 0.85em;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: transparent;
+  border-bottom: 0;
+}
+
+th {
+  padding: 0.6em 0.7em;
+  font-family: $caption-font-family;
+  font-size: 0.82em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: mix(#000, $muted-text-color, 25%);
+  border: 0;
+  border-bottom: 2px solid $ink;
+}
+
+td {
+  padding: 0.7em;
+  border: 0;
+  border-bottom: 1px solid $border-color;
+}
+
+/* Alternating rows in the tinted wash, so wide tables stay trackable across
+   the row without vertical rules. */
+tbody tr:nth-child(even) {
+  background-color: $code-background-color;
+}
+
+
+/* 4. Footer
+   --------------------------------------------------------------------------
+   $footer-background-color is set to the paper colour in the skin, so the
+   footer needs a rule to separate it from the page. Its inner block is also
+   centred on the content measure — the theme leaves it flush against the
+   left edge of the viewport, which looked unrelated to the column above it
+   once that column moved to the middle.
+   ========================================================================== */
+
+.page__footer {
+  border-top: 1px solid $border-color;
+  font-family: $caption-font-family;
+  font-size: $type-size-6;
+}
+
+.page__footer footer {
+  max-width: $measure-list;
+  margin-top: 1.5em;
+  margin-inline: auto;
+  padding-inline: 1em;
+}
+
+/* The theme sets the copyright line two steps down the scale, which at this
+   base size is barely legible. */
+.page__footer-copyright {
+  font-family: $caption-font-family;
+  font-size: 1em;
+}

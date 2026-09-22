@@ -1,0 +1,135 @@
+/* ==========================================================================
+   Editorial skin
+   --------------------------------------------------------------------------
+   A light, print-inspired skin: warm paper ground, near-black ink, and a
+   single claret accent. Replaces the stock "dark" skin.
+
+   HOW THIS FILE IS USED
+   assets/css/main.scss imports the skin FIRST, then the theme partials:
+
+       @import "minimal-mistakes/skins/editorial";  <- this file
+       @import "minimal-mistakes";                  <- _variables.scss etc.
+       @import "editorial-overrides";               <- rule overrides
+
+   Because every variable in _variables.scss carries `!default`, anything
+   assigned here wins. The corollary is that this file may only DECLARE
+   variables — it cannot reference ones defined in _variables.scss, since
+   that file has not been parsed yet. That is why the font stacks below are
+   written out literally instead of reusing $transitional / $humanist.
+
+   Rule overrides that must come AFTER the theme (link styling, reading
+   measure, heading colour) live in _sass/_editorial-overrides.scss.
+   ========================================================================== */
+
+
+/* Typography
+   --------------------------------------------------------------------------
+   Two families, both from the modern font stacks already catalogued in
+   _variables.scss. No webfonts are loaded, so there is no extra request and
+   no flash of unstyled text.
+
+     Body + headings : $transitional — Charter on macOS/iOS, Sitka Text or
+                       Cambria on Windows, Georgia everywhere else. A
+                       workhorse text serif that holds up at 19px.
+     Meta + nav      : $humanist — Seravek on macOS, Gill Sans Nova or
+                       Calibri on Windows. Used only for dates, navigation,
+                       captions and the footer, so the serif stays the voice
+                       of the page.
+   ========================================================================== */
+
+$transitional-stack: Charter, "Bitstream Charter", "Sitka Text", Cambria, Georgia, serif;
+$humanist-stack: Seravek, "Gill Sans Nova", Ubuntu, Calibri, "DejaVu Sans", sans-serif;
+
+$serif: $transitional-stack;
+$sans-serif: $humanist-stack;
+/* $sans-serif-narrow defaults to $sans-serif, so it inherits the above and
+   the masthead picks up Seravek without a separate assignment. */
+
+$global-font-family: $transitional-stack; // body copy
+$header-font-family: $transitional-stack; // h1–h6
+$caption-font-family: $humanist-stack;    // figure captions, .page__meta
+
+/* Base size
+   --------------------------------------------------------------------------
+   The theme scales the root font-size up at each breakpoint, and the stock
+   values (16 / 18 / 20 / 22px) push body copy to 22px on a desktop — part of
+   why the old layout felt like it was shouting. Charter has a large x-height,
+   so it reads comfortably a good deal smaller.
+
+   These four must be set together. _variables.scss derives the -medium,
+   -large and -x-large values from $doc-font-size by multiplication, so
+   overriding only the base would scale the others up with it.
+   ========================================================================== */
+
+$doc-font-size: 17px;          // phones
+$doc-font-size-medium: 18px;   // ≥768px
+$doc-font-size-large: 19px;    // ≥1024px
+$doc-font-size-x-large: 19px;  // ≥1280px — deliberately not larger than -large
+
+/* Headline scale
+   --------------------------------------------------------------------------
+   Expressed in em, so these multiply the root size above. At the 19px
+   desktop root that gives roughly 41 / 29 / 24 / 21 / 19 / 18px.
+   ========================================================================== */
+
+$h-size-1: 2.15em;   // .page__title — post and page titles
+$h-size-2: 1.52em;   // section headings, post titles in the archive list
+$h-size-3: 1.26em;
+$h-size-4: 1.1em;
+$h-size-5: 1em;
+$h-size-6: 0.95em;
+
+/* Meta text — dates, read time, footer. Slightly tighter than stock so the
+   uppercase letterspacing added in the overrides file does not overpower. */
+$type-size-6: 0.72em;
+
+
+/* Colours
+   --------------------------------------------------------------------------
+   Contrast against the paper ground, worst case first:
+
+     #24231F body      on #FAF8F4  →  14.9:1
+     #1C1B19 headings  on #FAF8F4  →  16.4:1
+     #7B2D26 links     on #FAF8F4  →   7.9:1
+     #8A8177 meta      on #FAF8F4  →   4.6:1  (passes AA for body text)
+
+   The meta grey is the only one near the line; darken it rather than
+   lightening it further if it ever needs to change.
+   ========================================================================== */
+
+$background-color: #faf8f4;  // paper — warm off-white
+$text-color: #24231f;        // body copy
+$muted-text-color: #8a8177;  // dates, captions, footer
+$border-color: #e6e0d5;      // masthead and footer rules
+$primary-color: #7b2d26;     // claret — the single accent
+
+/* Tinted ground for code, table stripes and form fields. */
+$code-background-color: #f4f1ea;
+$code-background-color-dark: #ebe5da;
+$form-background-color: #f4f1ea;
+
+/* The footer sits on the same paper as the page and is separated by a rule
+   instead of a colour change (see _editorial-overrides.scss). */
+$footer-background-color: #faf8f4;
+
+/* Links
+   --------------------------------------------------------------------------
+   Claret in running text. Post titles are handled separately in the
+   overrides file: they stay ink-black and underline only on hover, so a list
+   of headlines reads as headlines rather than as a column of links.
+   ========================================================================== */
+
+$link-color: #7b2d26;
+$link-color-hover: #5c1f1a;
+$link-color-visited: #6e3a34; // a touch browner, still clearly a link
+
+/* Masthead — quiet by default, ink on hover. */
+$masthead-link-color: #56514a;
+$masthead-link-color-hover: #1c1b19;
+$navicon-link-color-hover: #ebe5da; // mobile nav toggle
+
+/* Syntax highlighting is left at the theme's base16 default, which renders
+   code blocks dark on the light page. That reads as a deliberate inset
+   rather than a mistake, and this site has no code blocks at present. To
+   change it, override $base00–$base0f here the way skins/_contrast.scss
+   does. */
