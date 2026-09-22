@@ -3,7 +3,7 @@ title: "Links"
 permalink: /links/
 ---
 
-Useful resources on ME/CFS.
+Useful resources on ME/CFS:
 
 - **[Science for ME (S4ME) forum](https://www.s4me.info/)** — a forum for discussion of ME/CFS research, advocacy and news, with a focus on scientific rigour.
 - **[ME/CFS Science Blog](https://mecfsscience.org/)** — articles summarising and critiquing ME/CFS research.
