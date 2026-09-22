@@ -123,8 +123,11 @@ $link-color: #7b2d26;
 $link-color-hover: #5c1f1a;
 $link-color-visited: #6e3a34; // a touch browner, still clearly a link
 
-/* Masthead — quiet by default, ink on hover. */
-$masthead-link-color: #56514a;
+/* Masthead — quiet by default, ink on hover. The link colour is a little
+   darker than the body's muted grey: the nav is set uppercase and
+   letterspaced, which thins it out optically, so it needs the contrast back.
+   #47423b on #faf8f4 is 8.9:1. */
+$masthead-link-color: #47423b;
 $masthead-link-color-hover: #1c1b19;
 $navicon-link-color-hover: #ebe5da; // mobile nav toggle
 

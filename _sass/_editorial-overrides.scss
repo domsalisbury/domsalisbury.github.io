@@ -152,13 +152,34 @@ article.page {
 /* A hairline between entries in the post list. The theme separates them with
    whitespace alone, which at this measure lets long multi-line titles run
    into the excerpt above them. :last-child keeps a stray rule off the bottom
-   of the list, above the pagination. */
+   of the list, above the pagination.
+
+   Spacing needs both inner rules, or the gaps stack up and the separator
+   floats in the middle of a large void:
+     - the excerpt is a <p>, so it carries the theme's 1.3em bottom margin,
+       which lands on top of this padding — zero it and let the padding alone
+       set the distance down to the rule;
+     - the title is an h2, so it inherits `margin: 2em 0 0.5em` from the base
+       heading rule, which sets the distance from the rule down to the next
+       entry.
+   Keep the two values close (≈1.2em above, ≈1.5em below) so the rule reads
+   as belonging between the entries rather than to one of them — the lower
+   gap is the larger of the pair because the ascenders of a title need more
+   clearance than the x-height of the excerpt above it. */
 .list__item {
-  padding-bottom: 2em;
+  padding-bottom: 1.2em;
   border-bottom: 1px solid $border-color;
 
   &:last-child {
     border-bottom: 0;
+  }
+
+  .archive__item-excerpt {
+    margin-bottom: 0;
+  }
+
+  .archive__item-title {
+    margin-top: 1.5em;
   }
 }
 
@@ -218,16 +239,65 @@ h1, h2, h3, h4, h5, h6 {
   background-color: $background-color;
 }
 
-.site-title {
-  font-family: $header-font-family;
-  font-weight: 600;
-  letter-spacing: -0.01em;
+/* Masthead sizing
+   --------------------------------------------------------------------------
+   Both the site title and the nav links are `<a>` children of .greedy-nav,
+   so `.greedy-nav a` sets the shared treatment and .site-title is scoped
+   inside it to win on specificity — an unscoped `.site-title` would lose its
+   font-size to `.greedy-nav a` (0,1,1 beats 0,1,0).
+
+   Sizes are in em against the root, which the skin sets to 19px on desktop:
+   0.8em ≈ 15px for the nav, 0.95em ≈ 18px for the title. Both sit a step
+   above the theme's default because uppercase letterspaced text at small
+   sizes reads lighter than it measures — the extra weight below is part of
+   the same correction. Keep the title at least two steps above the nav so
+   the masthead still has a clear first element. */
+.greedy-nav a {
+  font-size: 0.8em;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
 }
 
-.greedy-nav a {
-  font-size: 0.72em;
-  text-transform: uppercase;
-  letter-spacing: 0.13em;
+.greedy-nav .site-title {
+  font-family: $header-font-family;
+  font-size: 0.95em;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: $ink;
+}
+
+/* Share buttons
+   --------------------------------------------------------------------------
+   The theme fills each share button with its network's brand colour
+   (_buttons.scss builds them from $x-color, $facebook-color and friends via
+   the yiq-contrasted mixin, which sets both background and text colour).
+   Four saturated blocks at the foot of a post pull far more attention than
+   the writing above them, so they become quiet outlines that pick up the
+   claret on hover.
+
+   `.page__share .btn` is deliberately two classes deep: it has to outrank
+   the single-class `.btn--x` etc., and the :hover rules below have to
+   outrank `.btn--x:hover`. `:visited` is reset too, or a shared link comes
+   back filled. */
+.page__share .btn {
+  font-family: $caption-font-family;
+  font-weight: 600;
+  background-color: transparent;
+  border: 1px solid $border-color;
+  color: mix(#000, $muted-text-color, 30%);
+
+  &:visited {
+    background-color: transparent;
+    color: mix(#000, $muted-text-color, 30%);
+  }
+
+  &:hover,
+  &:focus {
+    background-color: $code-background-color;
+    border-color: mix($primary-color, $border-color, 40%);
+    color: $primary-color;
+  }
 }
 
 /* The theme already gives blockquotes a $primary-color border and italics;
