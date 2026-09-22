@@ -1,5 +1,5 @@
 ---
-title: "Rapid response to the BMJ 'living systematic review' of long COVID interventions"
+title: "Rapid response to the _BMJ_ 'living systematic review' of long COVID interventions"
 categories:
   - mecfs
 tags:
@@ -7,7 +7,7 @@ tags:
   - long covid
 ---
 
-The BMJ (British Medical Journal) recently published a ['living' systematic review of interventions for long COVID (post-COVID condition)](https://www.bmj.com/content/387/bmj-2024-081318) by Zeraatkhar and coauthors.
+The _BMJ_ (British Medical Journal) recently published a ['living' systematic review of interventions for long COVID (post-COVID condition)](https://www.bmj.com/content/387/bmj-2024-081318) by Zeraatkhar and coauthors.
 
 I submitted a [rapid response](https://www.bmj.com/content/387/bmj-2024-081318/rr-1) to the journal to highlight some of the issues with the paper.
 
