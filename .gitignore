@@ -33,3 +33,6 @@ _site
 
 # Ignore draft posts folder: Dom Oct 2024
 drafts/
+
+# Session screenshots, not part of the site
+Claude outputs/

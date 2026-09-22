@@ -22,8 +22,8 @@ direction                : # "ltr" (default), "rtl" # set the direction of the p
 title                    : "Dom Salisbury"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : ""
-description              : ""
+name                     : "Dom Salisbury"
+description              : "Writing on ME/CFS and related conditions, including research critiques"
 url                      : "https://domsalisbury.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "domsalisbury/domsalisbury.github.io"
