@@ -7,7 +7,7 @@ tags:
   - long covid
 ---
 
-The _British Journal of Sports Medicine_ (BJSM) published earlier this year a [discussion article](https://bjsm.bmj.com/content/60/8/600) by Charlton and coauthors challenging the assumption that cardiovascular deconditioning explains long covid, and arguing that post-exertional malaise (PEM) — the cardinal and defining feature of ME/CFS — plays a central role in a sizeable subset of long covid patients.
+The _British Journal of Sports Medicine_ (_BJSM_) published earlier this year a [discussion article](https://bjsm.bmj.com/content/60/8/600) by Charlton and coauthors challenging the assumption that cardiovascular deconditioning explains long covid, and arguing that post-exertional malaise (PEM) — the cardinal and defining feature of ME/CFS — plays a central role in a sizeable subset of long covid patients.
 
 I submitted a [rapid response](https://bjsm.bmj.com/content/60/8/600.responses#post-exertional-malaise-cannot-be-reduced-to-exercise-intolerance-and-often-does-not-respond-well-to-traditional-rehabilitation-approaches) to the journal, highligting a few concerns I have, whilst welcoming the auhtors' rejection of the deconditioning model and focus on PEM.
 
